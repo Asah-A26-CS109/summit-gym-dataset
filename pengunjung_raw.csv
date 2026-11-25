@@ -1,0 +1,1501 @@
+﻿id_pengunjung,nama_pengunjung,alamat_pengunjung,no_telp,jenis_kelamin
+1,ANISA WIJAYA,"Jl. Setiabudi No. 63, Srondol Wetan",81819600133,Wanita
+2,Vina Anggraini,"Jl. Perintis Kemerdekaan No. 108, Srondol Wetan",0894 02654235,Wanita
+3,Nadia Wijaya,"Jl. Tembalang No. 68, Gedawang",87816184959,Wanita
+4,Budi Setiawan,"Jl. Setiabudi nomor 21, Srondol Wetan",86475255341,Wanita
+5,Vina Setiawan,"Jl. Ngesrep Timur No. 98, Srondol Kulon",88350305641,Laki-Laki
+6,Gita Oktaviani,"Jl. Ngesrep Timur No. 37, Srondol Kulon",81274629381,Laki-Laki
+7, Citra Saputra ,"Jl. Sukun Raya No. 41, Jabungan",89166978480,Wanita
+8,Bayu Amelia,"Jl. Setiabudi No. 88, Padangsari",86270482814,Wanita
+9,Eko Firmansyah,"Pudakpayung, Semarang",89570154303,Wanita
+10,citra oktaviani,"Jl. Perintis Kemerdekaan No. 33, Pedalangan",87824896383,Laki-Laki
+11,Nadia Firmansyah,"Jl. Perintis Kemerdekaan No. 116, Padangsari",0831-50983930,Wanita
+12,HENDRA LESTARI,"Jl. Tembalang No. 19, Pudakpayung",84738299737,Wanita
+13,Dewi Wijaya,"Jl. Tirto Agung No. 91, Ngesrep",87010651333,Laki-Laki
+14,Eko Putri,"Srondol Wetan, Semarang",87810801326,Laki-Laki
+15,gita handayani,"Jl. Sukun Raya No. 98, Gedawang",0847-46872343,Wanita
+16,agus maharani,"Jl. Grafika Raya No. 150, Tinjomoyo",88208121913,Wanita
+17,Mega Rahmawati,"Jl. Cemara Raya nomor 11, Banyumanik",86998543534,Wanita
+18,Bayu Kurniawan,"Jl. Tembalang No. 19, Gedawang",0899-11838425,Wanita
+19,Maya Kurniawan,"Jl. Ngesrep Timur No. 140, Srondol Kulon",88084124118,Laki-Laki
+20,Joko Puspita,"Jl. Tembalang No. 53, Jabungan",84874016400,Wanita
+21,Anisa Ramadhan,"Jl. Ngesrep Timur No. 142, Ngesrep",80112805982,Wanita
+22,Budi Kurniawan,"Jl. Grafika Raya No. 92, Srondol Wetan",83158692322,Wanita
+23,Fajar Maharani,"Jl. Durian Raya No. 69, Pedalangan",81607337543,Wanita
+24,Bayu Anggraini,"Jl. Tembalang No. 72, Padangsari",84586850142,Laki-Laki
+25,Budi Wijaya,"Jl. Tirto Agung No. 89, Sumurboto",89816934060,Wanita
+26,maya putri,"Jl. Tembalang No. 81, Jabungan",84846564823,Laki-Laki
+27,Bayu Santoso,"Jl. Cemara Raya No. 78, Ngesrep",80443699577,Wanita
+28,Taufik Oktaviani,"Jl. Sukun Raya No. 22, Srondol Kulon",89513433200,Laki-Laki
+29,Dimas Lestari,"Jl. Tirto Agung No. 148, Srondol Wetan",86763201632,Laki-Laki
+30,Budi Amelia,"Jl. Mulawarman No. 117, Pedalangan",88895798687,Laki-Laki
+31,Rizky Ramadhan,"Jl. Durian Raya No. 71, Pudakpayung",0834 71434558,Wanita
+32,Eko Setiawan,"Jl. Sukun Raya No. 55, Padangsari",86587603669,Wanita
+33,Aldi Rahmawati,"Jl. Ngesrep Timur No. 2, Sumurboto",86688937346,Wanita
+34,Nadia Maharani,"Jl. Tirto Agung No. 43, Tinjomoyo",89806990162,Wanita
+35,Budi Ramadhan,"Jl. Tembalang No. 55, Tinjomoyo",85646417080,Wanita
+36,Anisa Lestari,"Jl. Grafika Raya No. 8, Srondol Wetan",80923271937,Laki-Laki
+37,Nanda Firmansyah,"Jl. Cemara Raya No. 30, Pedalangan",81904966319,Wanita
+38,Dewi Kurniawan,"Banyumanik, Semarang",0858 65185067,Laki-Laki
+39,Maya Hidayat,"Jl. Sukun Raya No. 112, Pedalangan",88498776945,Wanita
+40,Intan Hidayat,"Jl. Ngesrep Timur No. 146, Banyumanik",86507527354,Laki-Laki
+41,Mega Puspita,"Jl. Setiabudi No. 143, Gedawang",0831-36783777,Wanita
+42,Joko Setiawan,"Jl. Durian Raya No. 79, Jabungan",85788568557,Laki-Laki
+43,Intan Setiawan,"Jl. Durian Raya No. 81, Padangsari",0882 33749894,Wanita
+44,Joko Setiawan,"Jl. Sukun Raya No. 78, Gedawang",0882-40084271,Laki-Laki
+45,Siti Oktaviani,"Jl. Tembalang No. 48, Gedawang",87116719022,Laki-Laki
+46,Citra Setiawan,"Jl. Perintis Kemerdekaan No. 107, Banyumanik",89386774964,Wanita
+47,Dimas Wijaya,"Jl. Durian Raya No. 55, Srondol Kulon",81232812067,Laki-Laki
+48,Joko Saputra,"Tinjomoyo, Semarang",83493618324,Wanita
+49,Budi Santoso,"Jl. Cemara Raya No. 146, Srondol Kulon",81746488771,Wanita
+50,Mega Putri,"Jl. Tembalang nomor 65, Gedawang",83990490278,Laki-Laki
+51,Dian Ramadhan,"Jl. Cemara Raya No. 112, Jabungan",81756551256,Laki-Laki
+52,Joko Handayani,"Jl. Perintis Kemerdekaan nomor 10, Tinjomoyo",0854-51680876,Wanita
+53,Taufik Firmansyah,"Jl. Ngesrep Timur No. 114, Gedawang",84824771093,Wanita
+54,JOKO AMELIA,"Jl. Perintis Kemerdekaan No. 105, Padangsari",81712748467,Wanita
+55,Rizky Amelia,"Jl. Tirto Agung No. 49, Banyumanik",82146584044,Laki-Laki
+56,Aldi Permata,"Jl. Perintis Kemerdekaan No. 124, Sumurboto",88867533963,Laki-Laki
+57,Budi Maharani,"Jl. Ngesrep Timur No. 98, Ngesrep",82702895171,Laki-Laki
+58,Andi Permata,"Jl. Sukun Raya No. 20, Tinjomoyo",0859-61586578,Wanita
+59,Hendra Kurniawan,"Jl. Mulawarman No. 112, Padangsari",81724005045,Laki-Laki
+60,Eko Setiawan,"Jl. Tirto Agung No. 145, Jabungan",82219693792,Laki-Laki
+61,Anisa Ramadhan,"Jl. Setiabudi No. 3, Tinjomoyo",88217594647,Wanita
+62, Nadia Oktaviani ,"Jl. Durian Raya No. 98, Banyumanik",89440640909,Laki-Laki
+63,Fitri Kurniawan,"Jl. Durian Raya No. 91, Srondol Wetan",83942104709,Wanita
+64,Citra Kurniawan,"Jl. Tirto Agung No. 45, Srondol Wetan",0885 88424745,Laki-Laki
+65,Citra Permata,"Jl. Durian Raya No. 102, Pudakpayung",81604817549,Laki-Laki
+66,Dewi Setiawan,"Jl. Grafika Raya No. 144, Sumurboto",83174612004,Wanita
+67,Dewi Setiawan,"Jl. Sukun Raya No. 100, Tinjomoyo",0886-92617964,Laki-Laki
+68,Gita Hidayat,"Jl. Durian Raya No. 93, Padangsari",85850643171,Wanita
+69,ANISA PUSPITA,"Jl. Grafika Raya No. 86, Srondol Wetan",89318393352,Wanita
+70,Intan Permata,"Jl. Perintis Kemerdekaan nomor 65, Pedalangan",0802-05395024,Wanita
+71,Agus Putri,"Jl. Mulawarman No. 17, Tinjomoyo",85891783908,Laki-Laki
+72,anisa pratama,"Jl. Ngesrep Timur No. 103, Ngesrep",81771159212,Laki-Laki
+73,Nadia Puspita,"Jl. Setiabudi No. 117, Pudakpayung",86118367365,Laki-Laki
+74,Putri Wijaya,"Jl. Tirto Agung No. 81, Jabungan",0857 38264917,Wanita
+75,Yoga Amelia,"Jl. Tembalang No. 32, Ngesrep",86049451983,Laki-Laki
+76,Hendra Wijaya,"Jl. Perintis Kemerdekaan No. 95, Padangsari",84936899809,Laki-Laki
+77,Andi Santoso,"Sumurboto, Semarang",82296120183,Laki-Laki
+78,Rizky Maharani,"Jl. Tembalang No. 80, Sumurboto",89910229014,Laki-Laki
+79,Siti Puspita,"Jl. Tirto Agung No. 70, Srondol Wetan",0881-56149784,Wanita
+80,nadia puspita,"Jl. Grafika Raya No. 53, Srondol Kulon",82445107622,Wanita
+81,Taufik Amelia,"Jl. Tembalang No. 19, Ngesrep",80607159696,Laki-Laki
+82,Joko Wijaya,"Jl. Grafika Raya No. 84, Pedalangan",0875 16136968,Laki-Laki
+83,Aldi Kurniawan,"Jl. Tembalang No. 57, Sumurboto",82181883552,Wanita
+84,Eko Ramadhan,"Jabungan, Semarang",82779979955,Laki-Laki
+85,Citra Oktaviani,"Banyumanik, Semarang",0858-14770054,Wanita
+86,Dimas Puspita,"Jl. Tirto Agung No. 119, Banyumanik",80793597820,Wanita
+87,Raka Maharani,"Jl. Mulawarman No. 130, Jabungan",80377889255,Laki-Laki
+88,Putri Maharani,"Jl. Cemara Raya No. 14, Jabungan",85151864492,Wanita
+89,Yoga Permata,"Jl. Setiabudi No. 101, Pedalangan",81486528168,Wanita
+90,Maya Kurniawan,"Jl. Durian Raya No. 88, Tinjomoyo",83221418880,Laki-Laki
+91,Mega Puspita,"Jl. Cemara Raya No. 97, Pedalangan",82927065379,Laki-Laki
+92,Hendra Amelia,"Jl. Setiabudi No. 121, Srondol Wetan",89774688623,Wanita
+93,aldi ramadhan,"Jl. Ngesrep Timur nomor 96, Pudakpayung",0881 41247826,Wanita
+94,Fitri Hidayat,"Jl. Grafika Raya No. 107, Gedawang",88536153051,Laki-Laki
+95,Raka Permata,"Jl. Grafika Raya No. 74, Tinjomoyo",82779010432,Laki-Laki
+96,Dewi Kurniawan,"Jl. Setiabudi No. 32, Gedawang",86971179808,Wanita
+97,Rina Permata,"Jl. Tirto Agung No. 1, Banyumanik",83962185188,Wanita
+98,nadia oktaviani,"Jl. Tirto Agung No. 96, Srondol Kulon",80515319520,Laki-Laki
+99,Fitri Santoso,"Jl. Ngesrep Timur No. 123, Jabungan",82170430305,Laki-Laki
+100,Fitri Amelia,"Jl. Setiabudi No. 10, Jabungan",84505415667,Laki-Laki
+101,Fajar Oktaviani,"Jl. Ngesrep Timur No. 95, Pudakpayung",0816 16928451,Laki-Laki
+102,Bayu Kurniawan,"Jl. Ngesrep Timur No. 110, Pedalangan",87570596401,Laki-Laki
+103,Maya Maulana,"Jl. Sukun Raya No. 8, Pedalangan",87021355690,Wanita
+104,Bayu Hidayat,"Jl. Tembalang No. 114, Padangsari",82856543102,Laki-Laki
+105,Dian Amelia,"Jl. Setiabudi No. 67, Tinjomoyo",0894 73121727,Laki-Laki
+106,Bayu Firmansyah,"Jl. Mulawarman No. 141, Pudakpayung",84225831323,Wanita
+107,Maya Amelia,"Jl. Tembalang No. 120, Pudakpayung",0891-14678669,Wanita
+108,Lia Lestari,"Jl. Ngesrep Timur No. 133, Sumurboto",88922680182,Wanita
+109,Fajar Maharani,"Jl. Durian Raya No. 89, Pudakpayung",81438424981,Wanita
+110,Yoga Rahmawati,"Banyumanik, Semarang",80109439690,Laki-Laki
+111,Anisa Kurniawan,"Jl. Durian Raya No. 104, Srondol Kulon",81027677359,Laki-Laki
+112,Aldi Maharani,"Jl. Tembalang No. 103, Pedalangan",85881537147,Wanita
+113,Dewi Saputra,"Jl. Tirto Agung No. 108, Srondol Wetan",85953278774,Wanita
+114,Citra Handayani,"Jl. Ngesrep Timur No. 62, Srondol Wetan",0850 04797480,Laki-Laki
+115,Eko Ramadhan,"Sumurboto, Semarang",86098358416,Laki-Laki
+116,Nanda Amelia,"Jl. Cemara Raya nomor 31, Pedalangan",86558523986,Wanita
+117,Budi Saputra,"Jl. Tembalang No. 122, Pudakpayung",82982595269,Laki-Laki
+118,Yoga Maharani,"Jl. Perintis Kemerdekaan No. 137, Tinjomoyo",89470551694,Wanita
+119,Dimas Oktaviani,"Jl. Cemara Raya No. 148, Srondol Wetan",80972896230,Wanita
+120,Gita Pratama,"Jl. Tembalang No. 108, Pedalangan",83689702838,Laki-Laki
+121,Taufik Handayani,"Jl. Sukun Raya No. 118, Pudakpayung",88549733484,Laki-Laki
+122,Nanda Kurniawan,"Jl. Durian Raya No. 126, Sumurboto",85844198665,Wanita
+123,Joko Saputra,"Jl. Mulawarman No. 89, Tinjomoyo",84733848421,Wanita
+124,Hendra Saputra,"Jl. Perintis Kemerdekaan No. 58, Jabungan",80165712082,Laki-Laki
+125,Siti Anggraini,"Jl. Setiabudi No. 83, Srondol Kulon",80193802620,Laki-Laki
+126,FAJAR KURNIAWAN,"Jl. Grafika Raya No. 77, Banyumanik",81547887287,Wanita
+127,Raka Wijaya,"Jl. Sukun Raya No. 118, Jabungan",82054932966,Laki-Laki
+128,Citra Handayani,"Jl. Mulawarman No. 48, Pedalangan",85304637454,Wanita
+129,Intan Firmansyah,"Jl. Durian Raya No. 16, Jabungan",87426841459,Wanita
+130,Eko Oktaviani,"Jl. Ngesrep Timur No. 96, Ngesrep",88783391878,Laki-Laki
+131, Citra Rahmawati ,"Jl. Grafika Raya No. 141, Pudakpayung",89822587139,Wanita
+132,Mega Maulana,"Jl. Grafika Raya No. 117, Pedalangan",0867-90874064,Wanita
+133,yoga lestari,"Jl. Tirto Agung No. 89, Padangsari",80170462265,Laki-Laki
+134,Aldi Handayani,"Jl. Mulawarman No. 139, Pedalangan",85128682300,Laki-Laki
+135,Bayu Amelia,"Jl. Perintis Kemerdekaan No. 98, Srondol Wetan",87524310690,Wanita
+136,Citra Wijaya,"Jl. Grafika Raya No. 115, Banyumanik",80306738302,Laki-Laki
+137,Hendra Rahmawati,"Jl. Cemara Raya No. 83, Srondol Wetan",82836440892,Laki-Laki
+138,vina oktaviani,"Jl. Tembalang No. 98, Pudakpayung",86624628733,Wanita
+139,raka hidayat,"Jl. Perintis Kemerdekaan No. 106, Ngesrep",0882 63435175,Wanita
+140,Budi Ramadhan,"Jl. Cemara Raya No. 11, Padangsari",89837354033,Wanita
+141,Agus Oktaviani,"Jl. Cemara Raya No. 53, Ngesrep",88546785445,Laki-Laki
+142,Rizky Wijaya,"Jl. Ngesrep Timur No. 82, Srondol Wetan",85609320489,Laki-Laki
+143,Joko Permata,"Jl. Tembalang No. 59, Ngesrep",83785477725,Wanita
+144,Agus Amelia,"Jabungan, Semarang",0880-10062312,Wanita
+145,Taufik Hidayat,"Jl. Grafika Raya No. 124, Jabungan",80088600848,Wanita
+146,Taufik Putri,"Jl. Mulawarman No. 25, Pudakpayung",83398454615,Laki-Laki
+147,Yoga Setiawan,"Jl. Durian Raya nomor 77, Jabungan",0801 66687002,Laki-Laki
+148,Aldi Putri,"Jl. Tembalang No. 145, Padangsari",80339740148,Wanita
+149,FAJAR MAHARANI,"Ngesrep, Semarang",84293968562,Wanita
+150,taufik firmansyah,"Srondol Wetan, Semarang",85999650477,Laki-Laki
+151,Vina Handayani,"Jl. Sukun Raya No. 150, Jabungan",81943114262,Laki-Laki
+152, Lia Firmansyah ,"Jl. Mulawarman No. 2, Srondol Kulon",85412126788,Laki-Laki
+153, Dewi Pratama ,"Jl. Tembalang No. 142, Padangsari",89560466183,Wanita
+154,Bayu Handayani,"Jl. Sukun Raya No. 69, Srondol Kulon",87212646471,Laki-Laki
+155,Hendra Oktaviani,"Jl. Cemara Raya nomor 51, Tinjomoyo",82406596575,Wanita
+156,Joko Maharani,"Jl. Durian Raya No. 123, Sumurboto",86547935646,Wanita
+157,Dian Rahmawati,"Jl. Cemara Raya No. 140, Pedalangan",88073741672,Laki-Laki
+158,Hendra Ramadhan,"Ngesrep, Semarang",87979688680,Wanita
+159,Dewi Setiawan,"Jl. Tembalang No. 43, Jabungan",80965610143,Wanita
+160,Rizky Firmansyah,"Jl. Ngesrep Timur No. 129, Pedalangan",80714611254,Laki-Laki
+161,Raka Anggraini,"Jl. Ngesrep Timur nomor 90, Tinjomoyo",87751401051,Wanita
+162,Dian Setiawan,"Jl. Sukun Raya No. 142, Pedalangan",88673622660,Wanita
+163,Rizky Rahmawati,"Jl. Tirto Agung No. 2, Srondol Wetan",0841 91825537,Laki-Laki
+164,Bayu Oktaviani,"Jl. Tembalang No. 100, Banyumanik",0891 55792499,Wanita
+165,Lia Wijaya,"Jl. Setiabudi No. 30, Pedalangan",82866929662,Wanita
+166,Vina Santoso,"Jl. Setiabudi No. 36, Pedalangan",87905072368,Laki-Laki
+167,Putri Oktaviani,"Jl. Ngesrep Timur nomor 126, Pedalangan",89034043842,Laki-Laki
+168,Yoga Oktaviani,"Jl. Perintis Kemerdekaan nomor 29, Banyumanik",84858078361,Wanita
+169,Joko Saputra,"Jl. Setiabudi No. 90, Padangsari",81339596292,Wanita
+170,Raka Saputra,"Jl. Tembalang No. 137, Srondol Kulon",88254494812,Laki-Laki
+171,Dian Saputra,"Jl. Sukun Raya No. 34, Srondol Wetan",0853-67294667,Wanita
+172,Nadia Maulana,"Jl. Setiabudi No. 95, Tinjomoyo",85901751863,Wanita
+173,Siti Ramadhan,"Jl. Setiabudi No. 87, Pudakpayung",82975001701,Laki-Laki
+174,Rizky Pratama,"Jl. Durian Raya No. 34, Jabungan",82415415206,Laki-Laki
+175,Agus Setiawan,"Jl. Mulawarman No. 25, Gedawang",0813-62749183,Laki-Laki
+176,Rina Permata,"Jl. Mulawarman nomor 59, Ngesrep",81155426221,Wanita
+177,Dimas Santoso,"Jl. Tembalang No. 55, Jabungan",82697311219,Laki-Laki
+178,Maya Putri,"Jl. Sukun Raya No. 64, Srondol Kulon",81389994043,Wanita
+179,Agus Handayani,"Jl. Grafika Raya No. 62, Tinjomoyo",81379180552,Laki-Laki
+180,Maya Amelia,"Padangsari, Semarang",89104300684,Laki-Laki
+181, Putri Handayani ,"Jl. Perintis Kemerdekaan No. 138, Banyumanik",84141832856,Wanita
+182,Joko Putri,"Jl. Durian Raya nomor 15, Srondol Wetan",86179904210,Wanita
+183,Rina Pratama,"Jl. Ngesrep Timur No. 89, Pudakpayung",84252410564,Wanita
+184,Intan Rahmawati,"Jl. Mulawarman No. 128, Tinjomoyo",85079252419,Wanita
+185,HENDRA MAULANA,"Srondol Wetan, Semarang",87562208635,Laki-Laki
+186,Dian Maharani,"Jl. Mulawarman No. 147, Sumurboto",88023806174,Laki-Laki
+187,Lia Lestari,"Jl. Ngesrep Timur No. 3, Sumurboto",84949375973,Wanita
+188,Eko Pratama,"Jl. Grafika Raya No. 60, Pudakpayung",80506413836,Wanita
+189, Eko Ramadhan ,"Jl. Grafika Raya No. 60, Pudakpayung",85719182619,Wanita
+190,Putri Permata,"Jl. Setiabudi No. 67, Sumurboto",85574313291,Wanita
+191,Fajar Hidayat,"Jl. Tembalang No. 105, Padangsari",85374741124,Wanita
+192,Gita Maharani,"Jl. Mulawarman No. 64, Sumurboto",88044206788,Wanita
+193,Rizky Wijaya,"Jl. Mulawarman No. 4, Gedawang",0832-36519941,Wanita
+194,Gita Hidayat,"Padangsari, Semarang",87029667066,Laki-Laki
+195,Gita Santoso,"Pedalangan, Semarang",0899 93476870,Laki-Laki
+196,Nadia Permata,"Jl. Durian Raya No. 135, Srondol Wetan",88065787598,Laki-Laki
+197,INTAN SANTOSO,"Jl. Tembalang No. 57, Gedawang",84078593213,Wanita
+198,Intan Amelia,"Jl. Grafika Raya No. 57, Banyumanik",85223955905,Wanita
+199,Yoga Anggraini,"Jl. Perintis Kemerdekaan No. 80, Pedalangan",80103930870,Wanita
+200,Raka Permata,"Gedawang, Semarang",0829 21851569,Laki-Laki
+201,Joko Maharani,"Jl. Sukun Raya No. 112, Jabungan",85289539264,Laki-Laki
+202,Eko Santoso,"Jl. Grafika Raya No. 147, Ngesrep",89029593917,Laki-Laki
+203,Agus Lestari,"Jl. Tembalang No. 82, Pedalangan",0815 70433154,Wanita
+204,Budi Handayani,"Jl. Tirto Agung No. 43, Ngesrep",0865-86179327,Wanita
+205,Joko Pratama,"Jl. Setiabudi No. 27, Padangsari",82621815997,Wanita
+206,Putri Santoso,"Jl. Tirto Agung nomor 41, Gedawang",0853 36884443,Wanita
+207,Nadia Rahmawati,"Jl. Ngesrep Timur No. 40, Gedawang",80614973103,Laki-Laki
+208, Citra Oktaviani ,"Jl. Setiabudi No. 102, Tinjomoyo",0841-86256527,Laki-Laki
+209,Rizky Hidayat,"Banyumanik, Semarang",82115869380,Laki-Laki
+210,Vina Oktaviani,"Jl. Durian Raya nomor 122, Srondol Kulon",86089899217,Wanita
+211,Gita Anggraini,"Jl. Grafika Raya No. 109, Padangsari",86329451168,Laki-Laki
+212,Aldi Ramadhan,"Jl. Ngesrep Timur No. 4, Banyumanik",0886 16229991,Wanita
+213,Raka Kurniawan,"Jl. Tembalang No. 106, Srondol Kulon",87997024629,Laki-Laki
+214,Budi Handayani,"Jl. Durian Raya No. 13, Tinjomoyo",85054447132,Laki-Laki
+215,Nanda Maharani,"Jl. Tirto Agung No. 23, Srondol Wetan",83678508214,Laki-Laki
+216,Eko Maulana,"Jl. Grafika Raya No. 45, Srondol Wetan",80307053457,Laki-Laki
+217,Anisa Wijaya,"Jl. Grafika Raya No. 62, Sumurboto",89727985524,Wanita
+218,Joko Pratama,"Jl. Grafika Raya No. 42, Banyumanik",85647281936,Wanita
+219,Dimas Pratama,"Jl. Setiabudi No. 79, Jabungan",86657437489,Wanita
+220,Andi Maulana,"Jl. Tembalang No. 144, Jabungan",89441715454,Laki-Laki
+221,Gita Permata,"Jl. Durian Raya No. 15, Banyumanik",85207446660,Wanita
+222,Lia Setiawan,"Jl. Perintis Kemerdekaan No. 122, Jabungan",88428241724,Wanita
+223,Bayu Maharani,"Jl. Mulawarman No. 57, Sumurboto",0846-55494717,Wanita
+224,Siti Anggraini,"Jl. Mulawarman No. 98, Pudakpayung",86022356972,Wanita
+225,Nanda Lestari,"Jl. Tembalang No. 46, Sumurboto",0896 58372914,Laki-Laki
+226,Anisa Putri,"Ngesrep, Semarang",80835058300,Wanita
+227,Hendra Firmansyah,"Jl. Sukun Raya No. 27, Ngesrep",89421044789,Laki-Laki
+228,Putri Permata,"Jl. Ngesrep Timur No. 92, Srondol Wetan",0821-73928461,Laki-Laki
+229,Rina Saputra,"Banyumanik, Semarang",89010016761,Laki-Laki
+230,Siti Permata,"Jl. Grafika Raya No. 78, Ngesrep",85729461837,Laki-Laki
+231,Dewi Wijaya,"Jl. Durian Raya No. 52, Srondol Kulon",83564208737,Wanita
+232,Andi Pratama,"Jl. Mulawarman No. 29, Banyumanik",87218114374,Laki-Laki
+233,Budi Wijaya,"Jl. Grafika Raya No. 75, Sumurboto",85611002255,Laki-Laki
+234,Mega Lestari,"Jl. Tembalang No. 47, Padangsari",86746762120,Wanita
+235,Putri Rahmawati,"Jl. Cemara Raya No. 113, Pedalangan",0865-90277167,Wanita
+236,INTAN MAHARANI,"Jl. Perintis Kemerdekaan No. 148, Banyumanik",85889163756,Wanita
+237,Andi Santoso,"Pedalangan, Semarang",87535408386,Wanita
+238,Citra Hidayat,"Jl. Cemara Raya No. 115, Padangsari",87517016608,Wanita
+239,Fitri Lestari,"Jl. Cemara Raya No. 78, Pudakpayung",83755037589,Laki-Laki
+240,Rina Firmansyah,"Jl. Ngesrep Timur No. 30, Padangsari",83055488510,Laki-Laki
+241, Eko Putri ,"Jl. Setiabudi No. 51, Srondol Wetan",86373516091,Laki-Laki
+242,Rizky Rahmawati,"Jl. Sukun Raya No. 128, Gedawang",0808 69782922,Laki-Laki
+243,Bayu Puspita,"Jl. Tembalang No. 130, Ngesrep",89346547226,Laki-Laki
+244,Fitri Amelia,"Jl. Perintis Kemerdekaan No. 56, Srondol Wetan",89452288515,Laki-Laki
+245,Yoga Rahmawati,"Jl. Tirto Agung No. 137, Srondol Kulon",80810620034,Wanita
+246,Joko Ramadhan,"Jl. Grafika Raya No. 76, Srondol Wetan",88057198386,Laki-Laki
+247,Rina Saputra,"Jl. Tirto Agung No. 107, Jabungan",88004397359,Wanita
+248,Nanda Anggraini,"Jabungan, Semarang",0812 63847291,Wanita
+249,YOGA RAMADHAN,"Pedalangan, Semarang",0825-90947985,Laki-Laki
+250,Taufik Setiawan,"Jl. Perintis Kemerdekaan No. 18, Pudakpayung",86886153355,Laki-Laki
+251,Gita Puspita,"Jabungan, Semarang",0815 73993056,Laki-Laki
+252,Intan Amelia,"Jl. Setiabudi No. 7, Pudakpayung",0858 87704358,Wanita
+253,Fajar Amelia,"Jl. Grafika Raya No. 17, Srondol Wetan",83613861207,Laki-Laki
+254,budi lestari,"Jl. Grafika Raya No. 46, Srondol Kulon",0819-34667665,Laki-Laki
+255,Bayu Wijaya,"Banyumanik, Semarang",81581449147,Laki-Laki
+256,Fitri Pratama,"Jl. Sukun Raya No. 137, Srondol Wetan",0882-49273618,Wanita
+257,Andi Rahmawati,"Jl. Tirto Agung nomor 138, Pudakpayung",84353682223,Laki-Laki
+258,Gita Wijaya,"Jl. Cemara Raya No. 14, Pudakpayung",88141413975,Wanita
+259, Bayu Setiawan ,"Jl. Setiabudi No. 18, Srondol Wetan",87759492995,Laki-Laki
+260,Fajar Pratama,"Jl. Durian Raya No. 57, Jabungan",84525777547,Wanita
+261, Fajar Puspita ,"Jl. Setiabudi No. 36, Pudakpayung",84110809969,Wanita
+262,Vina Ramadhan,"Jl. Perintis Kemerdekaan No. 121, Jabungan",0825 63942788,Laki-Laki
+263,MAYA MAULANA,"Jl. Durian Raya No. 43, Pudakpayung",87229927503,Laki-Laki
+264,Hendra Lestari,"Jl. Tembalang No. 60, Gedawang",83856770051,Laki-Laki
+265,Fitri Ramadhan,"Jl. Perintis Kemerdekaan No. 146, Pedalangan",86591846386,Laki-Laki
+266,Siti Oktaviani,"Jl. Grafika Raya No. 129, Pedalangan",82318432225,Wanita
+267,Bayu Setiawan,"Jl. Tembalang No. 30, Tinjomoyo",87739260302,Wanita
+268,eko maulana,"Jl. Cemara Raya No. 38, Gedawang",84286990413,Laki-Laki
+269,Aldi Oktaviani,"Jl. Durian Raya No. 106, Banyumanik",0892-98425799,Wanita
+270,Nadia Handayani,"Jl. Mulawarman No. 5, Srondol Wetan",88629127990,Wanita
+271,Citra Oktaviani,"Jl. Sukun Raya No. 139, Gedawang",86865086376,Wanita
+272,Putri Permata,"Jl. Ngesrep Timur No. 60, Padangsari",89864300981,Wanita
+273,Nadia Anggraini,"Jl. Tembalang nomor 105, Sumurboto",82694486959,Laki-Laki
+274,Nanda Anggraini,"Jl. Perintis Kemerdekaan No. 143, Tinjomoyo",85887449562,Wanita
+275,Agus Setiawan,"Jl. Sukun Raya No. 26, Srondol Wetan",86589026012,Laki-Laki
+276,Citra Lestari,"Jl. Durian Raya No. 95, Padangsari",80669849027,Wanita
+277,Gita Maulana,"Jl. Durian Raya No. 9, Banyumanik",88392053021,Laki-Laki
+278,Maya Handayani,"Pudakpayung, Semarang",81184895543,Wanita
+279,Rizky Handayani,"Jl. Grafika Raya No. 67, Pedalangan",88181845184,Laki-Laki
+280,Rina Hidayat,"Jl. Cemara Raya No. 124, Srondol Wetan",85779071416,Wanita
+281,Bayu Setiawan,"Jl. Tirto Agung No. 91, Pudakpayung",80434165182,Laki-Laki
+282,Maya Anggraini,"Jl. Setiabudi No. 47, Jabungan",87333433339,Wanita
+283,Nanda Wijaya,"Banyumanik, Semarang",88075957947,Laki-Laki
+284,Nadia Setiawan,"Jl. Cemara Raya No. 33, Gedawang",86780856271,Laki-Laki
+285,LIA PRATAMA,"Jl. Durian Raya nomor 98, Banyumanik",85594284347,Laki-Laki
+286,Maya Santoso,"Jl. Tirto Agung No. 54, Ngesrep",0855 64729293,Laki-Laki
+287,Raka Setiawan,"Jl. Tirto Agung No. 98, Srondol Wetan",82702672885,Laki-Laki
+288,Intan Amelia,"Jl. Grafika Raya No. 102, Padangsari",82034717545,Laki-Laki
+289,Maya Pratama,"Jl. Mulawarman No. 90, Jabungan",83998245587,Laki-Laki
+290,Mega Lestari,"Jl. Cemara Raya No. 74, Tinjomoyo",82256996112,Wanita
+291,Lia Maharani,"Jl. Setiabudi No. 69, Banyumanik",0864-75987622,Wanita
+292,Agus Setiawan,"Jl. Setiabudi No. 21, Srondol Wetan",86111780068,Wanita
+293,Dewi Ramadhan,"Jl. Sukun Raya No. 22, Jabungan",0843-34722820,Laki-Laki
+294,Aldi Maharani,"Jl. Ngesrep Timur No. 139, Srondol Kulon",87282997968,Laki-Laki
+295,Dian Firmansyah,"Jl. Perintis Kemerdekaan No. 59, Padangsari",84564240082,Laki-Laki
+296,SITI AMELIA,"Srondol Kulon, Semarang",86493085368,Laki-Laki
+297,Hendra Santoso,"Jl. Tirto Agung No. 97, Srondol Wetan",81638944846,Wanita
+298,Fajar Permata,"Jl. Mulawarman No. 117, Banyumanik",84973502080,Wanita
+299,Joko Ramadhan,"Jl. Ngesrep Timur nomor 3, Srondol Wetan",82073564757,Wanita
+300,Lia Lestari,"Jl. Sukun Raya No. 15, Srondol Kulon",86187234601,Wanita
+301,Nadia Hidayat,"Jl. Grafika Raya No. 51, Tinjomoyo",81837645208,Wanita
+302,Intan Oktaviani,"Sumurboto, Semarang",83136502491,Wanita
+303,Andi Saputra,"Jl. Ngesrep Timur No. 40, Sumurboto",81327195005,Wanita
+304, Rina Amelia ,"Jl. Sukun Raya No. 125, Srondol Wetan",88573065240,Laki-Laki
+305,Vina Kurniawan,"Jl. Ngesrep Timur No. 49, Banyumanik",88557498218,Laki-Laki
+306,Joko Ramadhan,"Jl. Tembalang No. 117, Gedawang",88620959351,Laki-Laki
+307,Gita Maulana,"Jl. Ngesrep Timur No. 142, Pedalangan",84565118102,Wanita
+308,Gita Wijaya,"Jl. Durian Raya No. 26, Gedawang",86789940539,Wanita
+309,Andi Anggraini,"Jl. Ngesrep Timur No. 21, Tinjomoyo",80586509480,Wanita
+310,fitri kurniawan,"Jl. Durian Raya nomor 133, Padangsari",83863383928,Laki-Laki
+311,Agus Wijaya,"Jl. Cemara Raya No. 92, Jabungan",86122868528,Laki-Laki
+312,Dian Firmansyah,"Jl. Perintis Kemerdekaan No. 84, Sumurboto",86593983684,Laki-Laki
+313,RIZKY HANDAYANI,"Banyumanik, Semarang",88240433504,Wanita
+314,Dewi Saputra,"Jl. Tembalang No. 40, Pedalangan",85933441969,Wanita
+315,Agus Maharani,"Jl. Sukun Raya nomor 125, Banyumanik",89409610556,Wanita
+316,Aldi Setiawan,"Jl. Cemara Raya No. 3, Jabungan",86048058925,Wanita
+317,Eko Saputra,"Jl. Tirto Agung No. 115, Banyumanik",88136462251,Wanita
+318,Vina Handayani,"Jl. Mulawarman No. 103, Pudakpayung",82278376938,Wanita
+319,Hendra Lestari,"Jl. Tirto Agung No. 83, Jabungan",81166553559,Wanita
+320,Nanda Kurniawan,"Jl. Tembalang No. 114, Banyumanik",87033521103,Wanita
+321,ALDI KURNIAWAN,"Jl. Tembalang No. 29, Srondol Kulon",87053833884,Laki-Laki
+322,Dimas Permata,"Jl. Grafika Raya No. 97, Banyumanik",88042043940,Wanita
+323,Citra Handayani,"Padangsari, Semarang",0846 36815798,Wanita
+324,Gita Maulana,"Jl. Perintis Kemerdekaan No. 6, Gedawang",88457620555,Laki-Laki
+325,Hendra Maulana,"Ngesrep, Semarang",88432562168,Wanita
+326,Putri Setiawan,"Jl. Sukun Raya No. 110, Srondol Kulon",85782329832,Wanita
+327,Putri Permata,"Sumurboto, Semarang",88812520566,Laki-Laki
+328,Agus Ramadhan,"Jl. Durian Raya No. 28, Pedalangan",80994999393,Wanita
+329,Maya Lestari,"Jl. Ngesrep Timur No. 35, Pudakpayung",0875-26772233,Laki-Laki
+330,Nanda Pratama,"Jl. Tirto Agung No. 57, Jabungan",83127975736,Wanita
+331,Dimas Handayani,"Jl. Tembalang No. 101, Banyumanik",89988081770,Laki-Laki
+332,Agus Saputra,"Jabungan, Semarang",83476447264,Wanita
+333,Rina Maulana,"Jl. Ngesrep Timur No. 116, Padangsari",0881-29826657,Wanita
+334,Rizky Rahmawati,"Jl. Durian Raya No. 117, Padangsari",85211175186,Wanita
+335,Nadia Amelia,"Jl. Grafika Raya No. 44, Sumurboto",82222064474,Wanita
+336,Dewi Permata,"Jl. Grafika Raya No. 65, Gedawang",87780973397,Laki-Laki
+337,Rizky Lestari,"Jl. Cemara Raya No. 2, Srondol Wetan",84983022050,Wanita
+338,Bayu Rahmawati,"Padangsari, Semarang",81622499982,Laki-Laki
+339, Dian Saputra ,"Jl. Setiabudi No. 83, Sumurboto",81681472145,Laki-Laki
+340,Taufik Anggraini,"Jl. Durian Raya No. 15, Padangsari",88179469548,Laki-Laki
+341,Dian Permata,"Jl. Cemara Raya No. 128, Pudakpayung",87729343010,Wanita
+342,Agus Anggraini,"Jl. Tirto Agung No. 106, Gedawang",85830344144,Laki-Laki
+343, Nanda Pratama ,"Jl. Tembalang No. 88, Ngesrep",89902355770,Wanita
+344,Siti Permata,"Jl. Ngesrep Timur No. 138, Sumurboto",86084958803,Laki-Laki
+345,raka firmansyah,"Jl. Sukun Raya No. 72, Gedawang",86829962914,Laki-Laki
+346,Rina Saputra,"Jl. Tirto Agung No. 23, Tinjomoyo",85743842150,Wanita
+347,Dian Lestari,"Jl. Perintis Kemerdekaan No. 7, Tinjomoyo",82357845218,Wanita
+348,Gita Saputra,"Padangsari, Semarang",0840-91570184,Laki-Laki
+349,Anisa Anggraini,"Jl. Durian Raya No. 50, Srondol Kulon",88571422410,Wanita
+350,Gita Amelia,"Jl. Perintis Kemerdekaan No. 82, Srondol Kulon",0849-32149587,Wanita
+351,Andi Oktaviani,"Ngesrep, Semarang",81662997954,Wanita
+352, Rina Amelia ,"Jl. Ngesrep Timur nomor 146, Pedalangan",87174773329,Laki-Laki
+353,Nadia Santoso,"Jl. Tembalang No. 84, Tinjomoyo",80171577245,Wanita
+354,Taufik Wijaya,"Jl. Mulawarman No. 84, Pudakpayung",81487696393,Wanita
+355,siti handayani,"Jl. Tembalang No. 54, Banyumanik",86958321971,Laki-Laki
+356, Lia Amelia ,"Jl. Ngesrep Timur No. 46, Srondol Kulon",81382749163,Wanita
+357,Nanda Permata,"Jl. Sukun Raya No. 116, Pudakpayung",86997335494,Laki-Laki
+358,CITRA RAHMAWATI,"Jl. Cemara Raya No. 131, Ngesrep",0840-58008514,Wanita
+359,Putri Rahmawati,"Jl. Tembalang No. 98, Ngesrep",86832723865,Wanita
+360,Joko Permata,"Jabungan, Semarang",82762126796,Wanita
+361,Rizky Maulana,"Jl. Perintis Kemerdekaan No. 116, Ngesrep",83269097384,Laki-Laki
+362,Budi Saputra,"Jl. Ngesrep Timur No. 95, Padangsari",0871 28478189,Wanita
+363,Siti Lestari,"Jl. Perintis Kemerdekaan No. 149, Srondol Kulon",80580778795,Laki-Laki
+364,Raka Kurniawan,"Jl. Sukun Raya No. 10, Banyumanik",84940792904,Wanita
+365, Joko Oktaviani ,"Jl. Sukun Raya No. 130, Padangsari",84294440192,Wanita
+366,Bayu Hidayat,"Jl. Sukun Raya No. 67, Srondol Wetan",82805129276,Laki-Laki
+367,Hendra Hidayat,"Jl. Sukun Raya No. 54, Banyumanik",85041027674,Wanita
+368,Nadia Handayani,"Jl. Setiabudi No. 38, Pudakpayung",80476580185,Laki-Laki
+369,Lia Ramadhan,"Jl. Mulawarman No. 66, Jabungan",0867-39385258,Wanita
+370,FITRI LESTARI,"Jl. Tirto Agung nomor 26, Pudakpayung",0875-34430091,Wanita
+371,Dimas Wijaya,"Jl. Mulawarman No. 23, Banyumanik",86921244717,Laki-Laki
+372,Rina Maharani,"Jl. Sukun Raya No. 19, Srondol Kulon",80665044271,Wanita
+373,Dimas Handayani,"Jl. Ngesrep Timur No. 28, Pedalangan",86391741011,Laki-Laki
+374,NANDA HIDAYAT,"Jl. Ngesrep Timur No. 39, Jabungan",80064256908,Laki-Laki
+375,Siti Putri,"Srondol Wetan, Semarang",86719855460,Wanita
+376,Maya Amelia,"Jl. Mulawarman No. 118, Srondol Kulon",83280634615,Wanita
+377,Mega Hidayat,"Jl. Durian Raya No. 36, Gedawang",80937618478,Wanita
+378,budi maharani,"Jl. Tembalang No. 11, Ngesrep",83878293102,Wanita
+379,siti puspita,"Jl. Durian Raya No. 34, Gedawang",80417929111,Wanita
+380,Citra Anggraini,"Jl. Tembalang No. 103, Sumurboto",0858 37482916,Laki-Laki
+381,Eko Putri,"Jl. Tembalang No. 142, Pedalangan",0839 02196207,Wanita
+382, Andi Santoso ,"Jl. Cemara Raya No. 73, Ngesrep",87232487632,Wanita
+383,Dimas Santoso,"Jl. Ngesrep Timur No. 23, Jabungan",85608331819,Wanita
+384,Rizky Anggraini,"Jl. Grafika Raya No. 50, Padangsari",87722005436,Laki-Laki
+385,dimas hidayat,"Jl. Mulawarman No. 14, Pudakpayung",82078113799,Laki-Laki
+386,Gita Maharani,"Jl. Mulawarman nomor 84, Srondol Wetan",83636317970,Wanita
+387,Gita Puspita,"Jl. Sukun Raya No. 100, Sumurboto",87354352090,Wanita
+388,Dewi Hidayat,"Jl. Tirto Agung No. 44, Sumurboto",84929298316,Laki-Laki
+389,Aldi Anggraini,"Srondol Kulon, Semarang",0863-35693929,Laki-Laki
+390,Budi Saputra,"Jl. Perintis Kemerdekaan No. 9, Ngesrep",86717731806,Wanita
+391,Maya Kurniawan,"Jl. Mulawarman No. 5, Tinjomoyo",84279907726,Laki-Laki
+392,Anisa Hidayat,"Jl. Grafika Raya No. 19, Ngesrep",85804649893,Wanita
+393,Dimas Maharani,"Jl. Grafika Raya No. 132, Jabungan",80165790552,Wanita
+394,Vina Anggraini,"Jl. Tembalang nomor 62, Pudakpayung",0879-33554864,Wanita
+395,Maya Firmansyah,"Jl. Ngesrep Timur No. 129, Pudakpayung",0878 84795137,Wanita
+396,Nadia Santoso,"Jl. Mulawarman No. 28, Pedalangan",0822-63819274,Laki-Laki
+397,Maya Putri,"Srondol Wetan, Semarang",80385695579,Laki-Laki
+398,Rizky Kurniawan,"Jl. Sukun Raya No. 79, Pedalangan",83754025472,Wanita
+399,Rina Amelia,"Jl. Sukun Raya No. 45, Jabungan",82310592745,Wanita
+400,Vina Saputra,"Jl. Tembalang No. 89, Pedalangan",87828410672,Laki-Laki
+401,Eko Pratama,"Jl. Perintis Kemerdekaan No. 130, Sumurboto",0847-49297517,Wanita
+402, Bayu Amelia ,"Jl. Setiabudi No. 7, Ngesrep",83751509398,Laki-Laki
+403, Gita Pratama ,"Jl. Perintis Kemerdekaan No. 115, Jabungan",81863759980,Laki-Laki
+404,Nadia Permata,"Jl. Tirto Agung No. 95, Ngesrep",80455478137,Laki-Laki
+405,Raka Hidayat,"Jl. Sukun Raya No. 109, Ngesrep",89912347851,Laki-Laki
+406,Citra Pratama,"Jl. Setiabudi No. 107, Pedalangan",87923264870,Laki-Laki
+407,Siti Amelia,"Gedawang, Semarang",0824-47146273,Wanita
+408,Nanda Ramadhan,"Jl. Mulawarman No. 93, Banyumanik",89647158904,Wanita
+409,Eko Maharani,"Pedalangan, Semarang",84565044818,Wanita
+410,Nanda Wijaya,"Jl. Sukun Raya No. 140, Sumurboto",84451895202,Laki-Laki
+411,Maya Oktaviani,"Jl. Tembalang No. 42, Padangsari",82833898881,Laki-Laki
+412, Dian Lestari ,"Jl. Sukun Raya No. 5, Tinjomoyo",84527985240,Wanita
+413,Hendra Permata,"Jl. Sukun Raya No. 59, Srondol Kulon",83216110760,Wanita
+414,Budi Maulana,"Jl. Grafika Raya No. 121, Padangsari",80140119393,Laki-Laki
+415,Andi Lestari,"Jl. Setiabudi No. 149, Sumurboto",82893891190,Wanita
+416,Rina Anggraini,"Jl. Sukun Raya No. 138, Gedawang",81387592712,Laki-Laki
+417,Putri Anggraini,"Jl. Durian Raya No. 105, Padangsari",85171827548,Wanita
+418,Citra Maharani,"Jl. Mulawarman No. 99, Srondol Kulon",89473864631,Laki-Laki
+419,Fajar Pratama,"Jl. Ngesrep Timur No. 27, Ngesrep",88112669121,Wanita
+420,Lia Anggraini,"Jl. Tirto Agung No. 32, Srondol Wetan",87499465796,Laki-Laki
+421, Eko Hidayat ,"Jl. Mulawarman No. 65, Tinjomoyo",83201017026,Laki-Laki
+422,Eko Kurniawan,"Jl. Cemara Raya No. 25, Padangsari",88773477848,Wanita
+423,Nanda Saputra,"Jl. Mulawarman No. 99, Tinjomoyo",86770028427,Wanita
+424,Joko Handayani,"Jl. Mulawarman No. 146, Jabungan",88897782806,Laki-Laki
+425,Yoga Handayani,"Sumurboto, Semarang",0809 02559056,Laki-Laki
+426,Maya Firmansyah,"Jl. Tembalang No. 15, Jabungan",0833-49114152,Laki-Laki
+427,Budi Hidayat,"Jl. Tirto Agung No. 146, Pudakpayung",84079056965,Wanita
+428, Raka Oktaviani ,"Jl. Durian Raya No. 87, Tinjomoyo",85294563718,Laki-Laki
+429,Intan Saputra,"Jl. Cemara Raya No. 103, Srondol Wetan",81919541987,Wanita
+430,Maya Lestari,"Jl. Setiabudi No. 130, Srondol Kulon",88536649878,Wanita
+431,Anisa Maulana,"Jl. Cemara Raya No. 128, Srondol Wetan",87489690835,Wanita
+432,Hendra Permata,"Jl. Setiabudi No. 112, Ngesrep",81364424936,Wanita
+433,EKO ANGGRAINI,"Jl. Durian Raya No. 80, Tinjomoyo",88660324204,Wanita
+434,Anisa Saputra,"Jl. Ngesrep Timur nomor 6, Gedawang",0859 41651623,Wanita
+435,Taufik Rahmawati,"Jl. Perintis Kemerdekaan nomor 65, Tinjomoyo",83915596363,Wanita
+436,Fajar Anggraini,"Jl. Ngesrep Timur No. 105, Srondol Kulon",80785158673,Wanita
+437,Maya Oktaviani,"Jl. Tembalang No. 79, Gedawang",89003486451,Wanita
+438,Aldi Hidayat,"Jl. Grafika Raya No. 101, Srondol Kulon",0813 43275604,Laki-Laki
+439,Siti Putri,"Jl. Tirto Agung No. 26, Pedalangan",84815698570,Wanita
+440,Anisa Santoso,"Jl. Ngesrep Timur No. 35, Gedawang",83459112382,Laki-Laki
+441,Raka Maharani,"Jl. Ngesrep Timur No. 35, Srondol Kulon",89543165266,Wanita
+442,Andi Pratama,"Jl. Cemara Raya No. 59, Padangsari",0834 20696942,Laki-Laki
+443,Fajar Rahmawati,"Jl. Grafika Raya No. 135, Ngesrep",89638274915,Laki-Laki
+444,Aldi Anggraini,"Jl. Durian Raya No. 73, Jabungan",86262044397,Laki-Laki
+445, Yoga Hidayat ,"Jl. Grafika Raya No. 121, Pedalangan",0863-66941180,Laki-Laki
+446,Dian Setiawan,"Jl. Tembalang No. 12, Gedawang",88964652809,Laki-Laki
+447,Fajar Maulana,"Jl. Tembalang nomor 120, Pedalangan",85862415027,Laki-Laki
+448,Dian Putri,"Jl. Setiabudi No. 68, Pudakpayung",0862-57287032,Wanita
+449,Fajar Saputra,"Jl. Setiabudi No. 42, Tinjomoyo",81707587771,Wanita
+450, Dewi Firmansyah ,"Jl. Durian Raya No. 73, Pedalangan",88499390892,Wanita
+451,Hendra Oktaviani,"Jl. Mulawarman No. 85, Gedawang",81659152017,Laki-Laki
+452,Rizky Ramadhan,"Jl. Grafika Raya No. 85, Gedawang",89759230450,Wanita
+453,Vina Puspita,"Jl. Mulawarman No. 103, Srondol Kulon",0813 74829163,Laki-Laki
+454,Siti Putri,"Jl. Setiabudi No. 34, Sumurboto",81583776749,Laki-Laki
+455,Citra Putri,"Jl. Cemara Raya No. 48, Ngesrep",86108573278,Wanita
+456,Joko Hidayat,"Jl. Mulawarman No. 123, Srondol Kulon",0824-38649081,Wanita
+457,Taufik Putri,"Jl. Mulawarman No. 119, Jabungan",89454918017,Wanita
+458,fitri handayani,"Jl. Mulawarman No. 107, Srondol Kulon",89779452321,Laki-Laki
+459,Aldi Wijaya,"Jl. Perintis Kemerdekaan No. 5, Gedawang",81027769749,Laki-Laki
+460,Rina Handayani,"Pedalangan, Semarang",83103037236,Wanita
+461,Citra Kurniawan,"Jl. Ngesrep Timur No. 38, Tinjomoyo",80122777079,Wanita
+462,Joko Rahmawati,"Jl. Grafika Raya nomor 86, Gedawang",86679984076,Laki-Laki
+463,Hendra Saputra,"Jl. Grafika Raya No. 109, Banyumanik",88146717957,Laki-Laki
+464,Andi Santoso,"Jl. Durian Raya No. 121, Sumurboto",83839597246,Laki-Laki
+465,Raka Oktaviani,"Jl. Cemara Raya No. 54, Srondol Kulon",81722329716,Laki-Laki
+466,Hendra Anggraini,"Jl. Grafika Raya No. 5, Sumurboto",85228015619,Wanita
+467,Vina Setiawan,"Jl. Setiabudi No. 88, Sumurboto",80842891077,Wanita
+468,Dewi Puspita,"Jl. Mulawarman No. 144, Gedawang",81213524787,Wanita
+469,Eko Firmansyah,"Jl. Sukun Raya No. 32, Srondol Wetan",86037548214,Laki-Laki
+470,Maya Setiawan,"Jl. Perintis Kemerdekaan No. 108, Srondol Wetan",86667850720,Wanita
+471,Citra Maharani,"Ngesrep, Semarang",86029084668,Laki-Laki
+472,DIAN FIRMANSYAH,"Jl. Setiabudi No. 136, Banyumanik",86738997563,Wanita
+473,Budi Amelia,"Jl. Tirto Agung No. 33, Pudakpayung",0843-18848520,Laki-Laki
+474,Hendra Kurniawan,"Jl. Tirto Agung No. 130, Padangsari",80548510174,Wanita
+475,Rizky Maharani,"Jl. Cemara Raya No. 145, Jabungan",88935449268,Wanita
+476,Dewi Maharani,"Jl. Cemara Raya No. 50, Sumurboto",81266110627,Laki-Laki
+477,Citra Firmansyah,"Jl. Perintis Kemerdekaan No. 104, Banyumanik",88649767762,Wanita
+478,Siti Hidayat,"Jl. Perintis Kemerdekaan No. 136, Padangsari",0837 70285196,Wanita
+479,Maya Rahmawati,"Jl. Grafika Raya No. 134, Pedalangan",85454470229,Wanita
+480,Dian Kurniawan,"Tinjomoyo, Semarang",81851067949,Laki-Laki
+481,Raka Handayani,"Jl. Cemara Raya No. 34, Pedalangan",87772519966,Laki-Laki
+482,lia amelia,"Jl. Ngesrep Timur nomor 72, Jabungan",82094818139,Wanita
+483,Yoga Maulana,"Jl. Ngesrep Timur No. 129, Gedawang",88204339718,Laki-Laki
+484,nadia rahmawati,"Jl. Ngesrep Timur No. 6, Sumurboto",82608564111,Wanita
+485,Joko Permata,"Jl. Setiabudi No. 23, Pedalangan",0862 09520046,Laki-Laki
+486,Eko Putri,"Padangsari, Semarang",83399378861,Wanita
+487,Lia Hidayat,"Tinjomoyo, Semarang",86304891382,Laki-Laki
+488,Rizky Lestari,"Jl. Perintis Kemerdekaan No. 53, Pedalangan",88238687007,Laki-Laki
+489,ANISA SANTOSO,"Jl. Grafika Raya No. 124, Srondol Kulon",84653984028,Wanita
+490,Joko Lestari,"Jl. Mulawarman No. 36, Pudakpayung",86398554743,Laki-Laki
+491,Lia Anggraini,"Jl. Cemara Raya No. 85, Gedawang",82097002687,Laki-Laki
+492,Vina Lestari,"Jl. Mulawarman No. 138, Gedawang",87156956201,Laki-Laki
+493,Dian Anggraini,"Jl. Grafika Raya No. 57, Gedawang",0845-31943375,Laki-Laki
+494,Siti Puspita,"Jl. Grafika Raya No. 51, Jabungan",81498728399,Wanita
+495,Citra Rahmawati,"Jl. Mulawarman No. 33, Srondol Kulon",0838-43089487,Laki-Laki
+496,Anisa Saputra,"Jl. Tirto Agung No. 105, Srondol Kulon",88775803046,Laki-Laki
+497,Lia Pratama,"Jl. Durian Raya No. 86, Padangsari",80361332541,Wanita
+498,Andi Oktaviani,"Jl. Grafika Raya No. 86, Srondol Kulon",81735058319,Laki-Laki
+499,Nanda Wijaya,"Jl. Ngesrep Timur nomor 149, Padangsari",80065120704,Laki-Laki
+500,Citra Wijaya,"Jl. Grafika Raya No. 144, Gedawang",86619639907,Laki-Laki
+501,Raka Putri,"Jl. Cemara Raya No. 26, Sumurboto",80785931109,Wanita
+502,Yoga Anggraini,"Jl. Sukun Raya No. 131, Srondol Kulon",86797232002,Laki-Laki
+503,Taufik Firmansyah,"Jl. Cemara Raya No. 139, Pedalangan",0874-95450892,Wanita
+504,taufik amelia,"Jl. Tirto Agung No. 89, Srondol Wetan",83153779599,Laki-Laki
+505,Putri Maharani,"Jl. Mulawarman No. 117, Gedawang",83033793375,Laki-Laki
+506,Gita Handayani,"Gedawang, Semarang",0850-81247395,Wanita
+507,Gita Anggraini,"Jl. Sukun Raya No. 57, Srondol Kulon",0825-83230241,Wanita
+508,Nadia Wijaya,"Jl. Durian Raya No. 79, Tinjomoyo",85528961122,Wanita
+509,Vina Handayani,"Jl. Tembalang No. 82, Banyumanik",0830-99384253,Laki-Laki
+510,Aldi Permata,"Jl. Cemara Raya No. 126, Srondol Wetan",81791286857,Laki-Laki
+511,Fajar Maharani,"Jl. Tembalang No. 135, Tinjomoyo",87749690333,Wanita
+512,Nadia Anggraini,"Jl. Tirto Agung No. 97, Banyumanik",85481214785,Wanita
+513,Rizky Maulana,"Jl. Tembalang No. 110, Tinjomoyo",86657546027,Laki-Laki
+514,Anisa Lestari,"Jl. Mulawarman No. 76, Pudakpayung",88143111508,Laki-Laki
+515,Gita Maharani,"Jl. Setiabudi No. 71, Srondol Wetan",89284044566,Wanita
+516,Siti Maulana,"Jl. Sukun Raya No. 102, Srondol Wetan",83738987751,Wanita
+517,Putri Putri,"Pudakpayung, Semarang",85292407553,Laki-Laki
+518,Bayu Handayani,"Jl. Perintis Kemerdekaan No. 77, Sumurboto",80902259999,Laki-Laki
+519,gita handayani,"Jl. Perintis Kemerdekaan No. 99, Srondol Wetan",0815-97412182,Laki-Laki
+520,Andi Santoso,"Jl. Mulawarman No. 99, Srondol Kulon",83481705802,Laki-Laki
+521, Nadia Santoso ,"Jl. Sukun Raya No. 138, Ngesrep",81632346729,Laki-Laki
+522,Yoga Anggraini,"Srondol Wetan, Semarang",82716938597,Laki-Laki
+523,Yoga Saputra,"Jl. Mulawarman No. 74, Jabungan",85469263296,Laki-Laki
+524,Dian Santoso,"Jl. Cemara Raya No. 25, Ngesrep",80324841376,Wanita
+525,Maya Lestari,"Jl. Mulawarman No. 130, Sumurboto",87243807017,Laki-Laki
+526,Agus Handayani,"Jl. Tirto Agung No. 10, Gedawang",81257771183,Laki-Laki
+527,Eko Oktaviani,"Jl. Sukun Raya No. 44, Gedawang",81241862104,Laki-Laki
+528,Maya Santoso,"Jl. Grafika Raya No. 137, Srondol Wetan",80816470900,Laki-Laki
+529,Nanda Anggraini,"Jl. Tembalang nomor 62, Srondol Wetan",80600531312,Wanita
+530,Budi Putri,"Jl. Mulawarman No. 84, Sumurboto",83938661331,Laki-Laki
+531,Fajar Pratama,"Jl. Tembalang No. 4, Ngesrep",87314950136,Laki-Laki
+532,Dewi Amelia,"Jl. Sukun Raya No. 65, Padangsari",85625257150,Laki-Laki
+533,Nadia Maulana,"Jl. Durian Raya No. 129, Banyumanik",0803 09143639,Wanita
+534,Eko Firmansyah,"Jl. Setiabudi No. 52, Pedalangan",83039752450,Laki-Laki
+535,Anisa Kurniawan,"Jl. Grafika Raya No. 59, Sumurboto",83380339685,Laki-Laki
+536,anisa pratama,"Srondol Wetan, Semarang",0823 21298338,Laki-Laki
+537,Agus Hidayat,"Jl. Sukun Raya No. 51, Srondol Wetan",0829 34497347,Laki-Laki
+538,Nadia Handayani,"Jl. Ngesrep Timur No. 113, Ngesrep",89627066149,Wanita
+539,Vina Santoso,"Jl. Tirto Agung No. 119, Srondol Kulon",84689715273,Wanita
+540,Andi Pratama,"Jl. Tembalang No. 126, Ngesrep",86567491601,Wanita
+541,Gita Putri,"Jl. Tembalang No. 131, Tinjomoyo",85066337050,Wanita
+542,Intan Puspita,"Jl. Sukun Raya No. 66, Srondol Wetan",89201166918,Laki-Laki
+543,Fajar Putri,"Jl. Setiabudi No. 129, Pudakpayung",86946119524,Wanita
+544,Dian Handayani,"Jl. Setiabudi No. 2, Pedalangan",80116864622,Wanita
+545,Rina Permata,"Jl. Ngesrep Timur nomor 47, Pudakpayung",87932302346,Wanita
+546, Aldi Santoso ,"Jl. Setiabudi No. 22, Ngesrep",0841-50937710,Laki-Laki
+547,Nanda Pratama,"Jl. Cemara Raya No. 11, Padangsari",88069847759,Laki-Laki
+548,Maya Maharani,"Jl. Durian Raya No. 93, Jabungan",0869-05510762,Wanita
+549,Aldi Maulana,"Jl. Durian Raya No. 95, Tinjomoyo",87863050505,Laki-Laki
+550,Hendra Puspita,"Jl. Tirto Agung No. 21, Sumurboto",0871-64932898,Wanita
+551,Siti Lestari,"Jl. Perintis Kemerdekaan No. 120, Pedalangan",81783332116,Wanita
+552,Fajar Maharani,"Jl. Setiabudi No. 57, Srondol Kulon",0871-28715399,Laki-Laki
+553,Nadia Handayani,"Jl. Perintis Kemerdekaan No. 112, Srondol Wetan",84141115931,Laki-Laki
+554,Eko Maharani,"Srondol Kulon, Semarang",89836655289,Wanita
+555,DEWI HANDAYANI,"Jl. Perintis Kemerdekaan No. 118, Sumurboto",84377294209,Laki-Laki
+556,Taufik Wijaya,"Jl. Cemara Raya No. 123, Jabungan",87460523302,Laki-Laki
+557,JOKO SANTOSO,"Jl. Perintis Kemerdekaan No. 101, Sumurboto",87566184438,Wanita
+558,Eko Maharani,"Jl. Cemara Raya No. 14, Srondol Kulon",82927742333,Wanita
+559, Maya Rahmawati ,"Jl. Sukun Raya No. 97, Ngesrep",82015720185,Laki-Laki
+560,Eko Handayani,"Jl. Grafika Raya No. 31, Srondol Wetan",87492617647,Wanita
+561, Dewi Wijaya ,"Jl. Mulawarman No. 126, Jabungan",88309997419,Laki-Laki
+562,Siti Putri,"Jl. Cemara Raya No. 33, Padangsari",0818-26068887,Wanita
+563,Nanda Anggraini,"Jl. Mulawarman No. 47, Banyumanik",82087510293,Wanita
+564,Citra Amelia,"Jl. Grafika Raya No. 22, Padangsari",84582603408,Laki-Laki
+565,Eko Rahmawati,"Jl. Tembalang No. 134, Sumurboto",88831030324,Wanita
+566,Dimas Amelia,"Jl. Cemara Raya No. 92, Srondol Kulon",0896 18446267,Laki-Laki
+567,Bayu Putri,"Srondol Wetan, Semarang",84359892625,Laki-Laki
+568,Andi Puspita,"Jl. Mulawarman No. 70, Padangsari",81861515542,Laki-Laki
+569,Andi Wijaya,"Jl. Durian Raya No. 97, Padangsari",82849718594,Laki-Laki
+570,dimas wijaya,"Jl. Sukun Raya No. 82, Ngesrep",85889679240,Wanita
+571,Bayu Permata,"Srondol Kulon, Semarang",85396727578,Laki-Laki
+572,Putri Maulana,"Jl. Durian Raya nomor 79, Jabungan",0846-51113129,Wanita
+573,Agus Kurniawan,"Jl. Ngesrep Timur No. 3, Ngesrep",88277881609,Wanita
+574,Rina Putri,"Jl. Perintis Kemerdekaan No. 89, Srondol Wetan",88909728321,Wanita
+575,taufik firmansyah,"Jl. Tirto Agung No. 127, Ngesrep",85153814474,Wanita
+576,Andi Rahmawati,"Jl. Durian Raya No. 79, Jabungan",80797050975,Laki-Laki
+577,Dewi Pratama,"Sumurboto, Semarang",81673188261,Wanita
+578,Eko Ramadhan,"Jl. Ngesrep Timur No. 102, Sumurboto",85628417722,Laki-Laki
+579,Andi Firmansyah,"Jl. Durian Raya No. 29, Srondol Wetan",0856-29384716,Laki-Laki
+580,Siti Amelia,"Jl. Sukun Raya No. 84, Ngesrep",86211022580,Wanita
+581,Budi Maharani,"Jl. Cemara Raya No. 3, Ngesrep",84471639282,Laki-Laki
+582,Nanda Wijaya,"Jl. Durian Raya No. 110, Srondol Wetan",81892392312,Wanita
+583,Intan Anggraini,"Jl. Tirto Agung No. 5, Banyumanik",81066843356,Wanita
+584,Taufik Putri,"Jl. Grafika Raya No. 78, Padangsari",0854-56350200,Laki-Laki
+585,Gita Kurniawan,"Jl. Setiabudi No. 26, Ngesrep",84755411082,Laki-Laki
+586,Agus Firmansyah,"Jl. Cemara Raya No. 136, Banyumanik",0834-39611291,Wanita
+587, Gita Hidayat ,"Jl. Mulawarman No. 140, Banyumanik",84738202368,Laki-Laki
+588,Mega Amelia,"Jl. Tembalang No. 115, Jabungan",81617688029,Wanita
+589,Joko Saputra,"Jl. Grafika Raya No. 49, Ngesrep",88812786866,Laki-Laki
+590,GITA SANTOSO,"Jl. Sukun Raya No. 147, Srondol Wetan",80878844344,Wanita
+591,fajar setiawan,"Srondol Kulon, Semarang",82424033810,Laki-Laki
+592,Anisa Puspita,"Jl. Tembalang No. 22, Pudakpayung",82694500534,Laki-Laki
+593,Andi Amelia,"Jl. Cemara Raya No. 28, Ngesrep",84983735439,Laki-Laki
+594,Eko Hidayat,"Jl. Tirto Agung No. 95, Pedalangan",81727223972,Laki-Laki
+595,Andi Kurniawan,"Jl. Sukun Raya No. 101, Jabungan",82163849271,Wanita
+596,Dimas Wijaya,"Padangsari, Semarang",80231429001,Laki-Laki
+597,Aldi Lestari,"Jl. Sukun Raya No. 123, Banyumanik",0895 47281936,Wanita
+598, Fitri Saputra ,"Jl. Perintis Kemerdekaan No. 76, Padangsari",86203036625,Laki-Laki
+599,Hendra Handayani,"Jl. Mulawarman nomor 126, Pedalangan",0831-45195151,Wanita
+600,Fajar Putri,"Jl. Tembalang No. 47, Jabungan",82494514754,Wanita
+601,Raka Pratama,"Jl. Sukun Raya No. 82, Pedalangan",0812-93847261,Wanita
+602,Nanda Handayani,"Jl. Tembalang No. 127, Ngesrep",86952366878,Laki-Laki
+603,Vina Amelia,"Jl. Tirto Agung No. 22, Banyumanik",86893135030,Laki-Laki
+604,eko wijaya,"Jl. Tembalang No. 93, Pedalangan",87286333021,Wanita
+605,Nadia Pratama,"Jl. Tirto Agung No. 96, Gedawang",0819 17920252,Wanita
+606,Citra Pratama,"Jl. Tirto Agung No. 39, Pedalangan",82847657041,Wanita
+607,Mega Saputra,"Pedalangan, Semarang",86678498436,Laki-Laki
+608,Citra Maulana,"Jl. Sukun Raya No. 55, Ngesrep",80362891775,Laki-Laki
+609,Fitri Handayani,"Jl. Grafika Raya No. 96, Jabungan",83411159503,Wanita
+610,vina wijaya,"Jl. Durian Raya No. 3, Srondol Kulon",88303419909,Wanita
+611, Budi Maharani ,"Jl. Setiabudi No. 3, Sumurboto",84683565215,Wanita
+612,TAUFIK PERMATA,"Jl. Cemara Raya No. 98, Tinjomoyo",80422711332,Wanita
+613,Taufik Maulana,"Jl. Cemara Raya No. 134, Sumurboto",82545960633,Wanita
+614,Eko Rahmawati,"Jl. Ngesrep Timur No. 25, Gedawang",0848-17175242,Laki-Laki
+615,Yoga Firmansyah,"Jl. Mulawarman No. 19, Pedalangan",87474721970,Laki-Laki
+616,Nadia Putri,"Jl. Sukun Raya No. 113, Sumurboto",89551687409,Wanita
+617,Agus Setiawan,"Jl. Perintis Kemerdekaan nomor 3, Pedalangan",84629613671,Laki-Laki
+618,Rizky Amelia,"Jl. Mulawarman No. 22, Pedalangan",81663651559,Wanita
+619, Rina Oktaviani ,"Jl. Setiabudi No. 117, Gedawang",82723590960,Laki-Laki
+620,siti anggraini,"Jl. Durian Raya No. 6, Jabungan",84421214614,Laki-Laki
+621,Aldi Putri,"Pedalangan, Semarang",81654235677,Wanita
+622,Rina Putri,"Jl. Cemara Raya No. 100, Gedawang",89319925502,Wanita
+623, Siti Maharani ,"Jl. Tirto Agung No. 68, Pudakpayung",80727910336,Wanita
+624,Dimas Handayani,"Jl. Tembalang No. 54, Srondol Wetan",89055044817,Laki-Laki
+625,Putri Putri,"Jl. Tembalang No. 139, Ngesrep",85127652892,Laki-Laki
+626,Nadia Kurniawan,"Jl. Tirto Agung nomor 73, Banyumanik",0811 10961798,Laki-Laki
+627,TAUFIK RAHMAWATI,"Jl. Setiabudi No. 108, Srondol Wetan",87861371576,Laki-Laki
+628,Andi Firmansyah,"Jl. Perintis Kemerdekaan No. 73, Srondol Kulon",84463060002,Laki-Laki
+629,Lia Santoso,"Jl. Tirto Agung No. 62, Pudakpayung",83960962626,Wanita
+630, Putri Setiawan ,"Jl. Sukun Raya No. 130, Padangsari",89648253110,Wanita
+631,Anisa Rahmawati,"Jl. Grafika Raya No. 140, Padangsari",86027523343,Wanita
+632,Agus Handayani,"Jl. Setiabudi nomor 14, Srondol Kulon",82091179112,Laki-Laki
+633, Mega Santoso ,"Jl. Mulawarman No. 127, Sumurboto",86170617136,Laki-Laki
+634,Anisa Hidayat,"Jl. Sukun Raya No. 77, Gedawang",0899-01557998,Wanita
+635,Taufik Ramadhan,"Pudakpayung, Semarang",88823513052,Wanita
+636,Agus Permata,"Jl. Setiabudi nomor 124, Srondol Wetan",85847768634,Wanita
+637,Bayu Ramadhan,"Jl. Mulawarman No. 150, Banyumanik",0823 76769459,Laki-Laki
+638,Putri Anggraini,"Jabungan, Semarang",87208496498,Laki-Laki
+639,Andi Wijaya,"Jl. Tembalang No. 110, Pedalangan",83135525105,Wanita
+640,Rina Maharani,"Jl. Ngesrep Timur No. 146, Sumurboto",88164938318,Wanita
+641,Yoga Putri,"Jl. Tirto Agung No. 82, Sumurboto",83077046117,Laki-Laki
+642,Yoga Handayani,"Srondol Kulon, Semarang",89074260880,Wanita
+643, Citra Oktaviani ,"Jl. Tirto Agung No. 78, Srondol Kulon",85618579064,Laki-Laki
+644,Siti Wijaya,"Jl. Cemara Raya No. 27, Gedawang",80021563213,Laki-Laki
+645,FITRI AMELIA,"Jl. Grafika Raya nomor 67, Gedawang",80414596422,Laki-Laki
+646,Dewi Permata,"Jl. Sukun Raya No. 150, Ngesrep",87188397745,Laki-Laki
+647,Hendra Lestari,"Jl. Setiabudi No. 22, Sumurboto",83311703037,Wanita
+648,Siti Wijaya,"Jl. Durian Raya No. 136, Pudakpayung",84728123567,Wanita
+649,Nanda Handayani,"Jl. Mulawarman No. 72, Ngesrep",84912711307,Laki-Laki
+650,Andi Oktaviani,"Jl. Perintis Kemerdekaan No. 116, Sumurboto",81815632686,Laki-Laki
+651,Budi Hidayat,"Jl. Tembalang No. 26, Gedawang",86634362948,Laki-Laki
+652, Taufik Putri ,"Jl. Grafika Raya No. 64, Padangsari",81009431814,Laki-Laki
+653, Nadia Handayani ,"Jl. Durian Raya No. 69, Tinjomoyo",82354940128,Laki-Laki
+654,Agus Kurniawan,"Jl. Durian Raya No. 44, Sumurboto",0812-25720765,Wanita
+655,Intan Lestari,"Jl. Grafika Raya No. 91, Tinjomoyo",80737100943,Wanita
+656,Nanda Permata,"Jl. Mulawarman No. 26, Srondol Kulon",0857-75847457,Laki-Laki
+657,Joko Maharani,"Jl. Cemara Raya No. 124, Padangsari",88026325703,Laki-Laki
+658,Maya Anggraini,"Jl. Mulawarman No. 50, Ngesrep",81487824556,Laki-Laki
+659,Intan Kurniawan,"Jl. Grafika Raya No. 149, Pudakpayung",85916795410,Wanita
+660,Rizky Permata,"Jl. Setiabudi No. 143, Jabungan",84741407034,Wanita
+661,Budi Oktaviani,"Jl. Grafika Raya No. 111, Sumurboto",80042548821,Laki-Laki
+662,Eko Anggraini,"Jl. Cemara Raya No. 21, Srondol Kulon",80753666144,Laki-Laki
+663,Fajar Rahmawati,"Jl. Tembalang No. 149, Pedalangan",83426834414,Laki-Laki
+664,Vina Santoso,"Jl. Tirto Agung No. 25, Pedalangan",87585756766,Wanita
+665,DIAN AMELIA,"Jl. Tirto Agung No. 23, Pedalangan",0843-98529894,Laki-Laki
+666,Eko Handayani,"Jl. Grafika Raya No. 119, Pudakpayung",80104159149,Laki-Laki
+667,Aldi Saputra,"Jl. Cemara Raya No. 131, Gedawang",83828723244,Wanita
+668,Raka Oktaviani,"Padangsari, Semarang",82918133170,Laki-Laki
+669,Nadia Saputra,"Jl. Setiabudi No. 104, Tinjomoyo",83849791620,Wanita
+670,Fitri Setiawan,"Jl. Perintis Kemerdekaan No. 140, Srondol Wetan",87441975466,Wanita
+671,Rizky Putri,"Jl. Sukun Raya No. 8, Srondol Kulon",81960940970,Wanita
+672,Rizky Hidayat,"Jl. Grafika Raya No. 41, Sumurboto",88358681225,Laki-Laki
+673,Rizky Permata,"Jl. Setiabudi No. 101, Padangsari",87679298842,Laki-Laki
+674,Yoga Rahmawati,"Padangsari, Semarang",0802 31177533,Wanita
+675,Agus Handayani,"Jl. Tirto Agung No. 17, Gedawang",0841 01759025,Laki-Laki
+676,Nadia Permata,"Jl. Cemara Raya No. 143, Srondol Wetan",0847 74332683,Wanita
+677,Anisa Wijaya,"Jl. Grafika Raya No. 36, Gedawang",86981528733,Laki-Laki
+678,Taufik Firmansyah,"Pedalangan, Semarang",85837462918,Laki-Laki
+679,Hendra Saputra,"Jl. Perintis Kemerdekaan No. 85, Gedawang",84465124189,Laki-Laki
+680,nadia puspita,"Jl. Perintis Kemerdekaan No. 29, Banyumanik",84005643502,Laki-Laki
+681,Dian Saputra,"Jl. Ngesrep Timur No. 19, Banyumanik",80516991872,Wanita
+682,Dewi Saputra,"Jl. Perintis Kemerdekaan No. 58, Jabungan",86743000389,Wanita
+683,vina oktaviani,"Jl. Tirto Agung No. 97, Pedalangan",86821719553,Laki-Laki
+684,Dian Saputra,"Banyumanik, Semarang",0823 72948163,Laki-Laki
+685,fajar kurniawan,"Jl. Tembalang No. 90, Banyumanik",83429671114,Wanita
+686,Siti Firmansyah,"Jl. Ngesrep Timur No. 78, Sumurboto",88438458810,Laki-Laki
+687,Rina Puspita,"Jl. Setiabudi No. 21, Srondol Wetan",88348315203,Laki-Laki
+688, Anisa Hidayat ,"Jl. Grafika Raya No. 128, Gedawang",0849-64104967,Laki-Laki
+689,nadia hidayat,"Jl. Durian Raya No. 53, Ngesrep",86804085095,Wanita
+690,Nanda Pratama,"Jl. Cemara Raya No. 112, Ngesrep",80186487699,Laki-Laki
+691,Fajar Handayani,"Jl. Durian Raya No. 34, Gedawang",84138459609,Laki-Laki
+692,Intan Ramadhan,"Jl. Cemara Raya No. 4, Padangsari",0895-42770707,Laki-Laki
+693,Siti Amelia,"Jl. Tirto Agung nomor 15, Banyumanik",84985172444,Wanita
+694,Hendra Santoso,"Jl. Cemara Raya nomor 13, Srondol Wetan",80287950830,Laki-Laki
+695,Intan Pratama,"Jl. Tembalang No. 139, Gedawang",83511871813,Laki-Laki
+696,Yoga Firmansyah,"Jl. Tirto Agung No. 19, Jabungan",84205955657,Wanita
+697,fajar firmansyah,"Banyumanik, Semarang",81935889536,Wanita
+698,Bayu Permata,"Jl. Mulawarman No. 20, Srondol Wetan",88986818097,Laki-Laki
+699,Lia Ramadhan,"Jl. Cemara Raya No. 76, Srondol Wetan",0835 37513765,Laki-Laki
+700,vina maulana,"Jl. Tembalang No. 124, Banyumanik",87639283692,Laki-Laki
+701,Raka Kurniawan,"Jl. Tembalang No. 31, Padangsari",0878-49281736,Laki-Laki
+702,Intan Amelia,"Pedalangan, Semarang",81293746182,Laki-Laki
+703,Rina Amelia,"Jl. Setiabudi No. 31, Sumurboto",89991015767,Laki-Laki
+704,Joko Oktaviani,"Jl. Sukun Raya No. 47, Banyumanik",81209957657,Laki-Laki
+705,Nanda Wijaya,"Sumurboto, Semarang",89889864565,Wanita
+706,Eko Saputra,"Jl. Durian Raya No. 111, Pudakpayung",89951542144,Laki-Laki
+707,Hendra Santoso,"Jl. Setiabudi No. 28, Srondol Wetan",84213882090,Wanita
+708,ANDI OKTAVIANI,"Jl. Tembalang No. 53, Srondol Kulon",86782741176,Laki-Laki
+709,Citra Permata,"Jl. Mulawarman No. 91, Padangsari",83152854781,Laki-Laki
+710,Mega Saputra,"Jl. Mulawarman No. 134, Sumurboto",88003296334,Wanita
+711,Siti Santoso,"Jl. Ngesrep Timur No. 73, Pedalangan",81830617893,Wanita
+712,Budi Putri,"Jl. Setiabudi No. 98, Jabungan",83578243477,Laki-Laki
+713,Dimas Firmansyah,"Jl. Ngesrep Timur No. 76, Padangsari",81467536127,Wanita
+714,Maya Handayani,"Jl. Sukun Raya No. 124, Tinjomoyo",86304483608,Laki-Laki
+715,Intan Maharani,"Jl. Tirto Agung No. 114, Ngesrep",84047350476,Wanita
+716,Vina Anggraini,"Jl. Mulawarman No. 85, Pedalangan",88006155810,Wanita
+717,Maya Amelia,"Jl. Sukun Raya No. 138, Ngesrep",0834-25563830,Wanita
+718, Nanda Maulana ,"Tinjomoyo, Semarang",82440330416,Laki-Laki
+719, Eko Ramadhan ,"Jl. Mulawarman No. 19, Pudakpayung",86008921963,Laki-Laki
+720,Raka Maharani,"Jl. Perintis Kemerdekaan No. 6, Srondol Kulon",87314976461,Laki-Laki
+721,Vina Ramadhan,"Jl. Setiabudi No. 137, Pudakpayung",0860-76581739,Laki-Laki
+722,Nanda Setiawan,"Jl. Tembalang nomor 123, Banyumanik",84521182379,Wanita
+723,Eko Handayani,"Jl. Ngesrep Timur No. 134, Banyumanik",83074645205,Laki-Laki
+724,Aldi Pratama,"Jl. Durian Raya No. 144, Tinjomoyo",87535778811,Wanita
+725,Nadia Permata,"Jl. Grafika Raya No. 42, Pudakpayung",81237106728,Wanita
+726,Agus Amelia,"Jl. Tirto Agung No. 3, Srondol Kulon",86448595922,Wanita
+727,Raka Puspita,"Jl. Tembalang No. 133, Banyumanik",87735228705,Wanita
+728,eko oktaviani,"Jl. Grafika Raya No. 80, Srondol Wetan",0818-75109792,Laki-Laki
+729,Anisa Amelia,"Jl. Tembalang No. 4, Srondol Wetan",84694596488,Wanita
+730,Citra Rahmawati,"Jl. Mulawarman No. 56, Srondol Kulon",84912896599,Laki-Laki
+731,Raka Puspita,"Pedalangan, Semarang",0833-19222705,Wanita
+732,Eko Maulana,"Jl. Tirto Agung No. 121, Sumurboto",88138666754,Laki-Laki
+733,Taufik Lestari,"Jl. Durian Raya No. 43, Jabungan",82687741865,Wanita
+734,Aldi Firmansyah,"Jl. Tembalang No. 109, Srondol Wetan",88365203758,Wanita
+735,Yoga Kurniawan,"Jl. Mulawarman No. 95, Srondol Kulon",80940476044,Wanita
+736,Yoga Pratama,"Jl. Ngesrep Timur No. 117, Tinjomoyo",0878 10509222,Laki-Laki
+737,fitri wijaya,"Jl. Ngesrep Timur nomor 16, Sumurboto",88439055295,Wanita
+738,Bayu Handayani,"Jl. Grafika Raya No. 17, Srondol Wetan",88241270493,Laki-Laki
+739,Fajar Pratama,"Jl. Setiabudi No. 144, Sumurboto",85791971112,Wanita
+740,Fajar Maharani,"Jl. Grafika Raya No. 44, Gedawang",85713432406,Laki-Laki
+741,Fajar Ramadhan,"Jl. Cemara Raya No. 81, Ngesrep",83432447417,Laki-Laki
+742,Maya Maulana,"Jl. Sukun Raya No. 10, Banyumanik",82893654358,Laki-Laki
+743,Citra Maulana,"Jl. Durian Raya No. 67, Srondol Wetan",84018272795,Laki-Laki
+744,BAYU RAHMAWATI,"Jl. Tembalang No. 27, Jabungan",80267551254,Laki-Laki
+745,Vina Santoso,"Jl. Grafika Raya No. 113, Banyumanik",89966734595,Laki-Laki
+746,Joko Saputra,"Jl. Perintis Kemerdekaan No. 28, Ngesrep",84969028249,Wanita
+747,Yoga Permata,"Jl. Tembalang No. 14, Padangsari",82576270232,Laki-Laki
+748,Citra Santoso,"Jl. Durian Raya No. 112, Padangsari",83285072517,Laki-Laki
+749,Rina Anggraini,"Jl. Tirto Agung No. 119, Srondol Wetan",81625265469,Wanita
+750,Maya Oktaviani,"Jl. Cemara Raya No. 7, Srondol Wetan",0823-55580996,Wanita
+751,Eko Oktaviani,"Jl. Grafika Raya No. 55, Srondol Kulon",0815-62624467,Laki-Laki
+752,Putri Santoso,"Jl. Tirto Agung No. 133, Padangsari",81516025298,Laki-Laki
+753,Andi Oktaviani,"Jl. Tirto Agung No. 109, Gedawang",86419785758,Wanita
+754,Raka Santoso,"Jl. Perintis Kemerdekaan nomor 99, Jabungan",0820-59438976,Laki-Laki
+755,Joko Saputra,"Sumurboto, Semarang",89546540842,Laki-Laki
+756,Putri Pratama,"Jabungan, Semarang",0891 50863218,Wanita
+757,Agus Permata,"Jl. Ngesrep Timur No. 111, Srondol Kulon",0879-38970155,Wanita
+758,Dimas Wijaya,"Jl. Perintis Kemerdekaan No. 21, Sumurboto",84660241613,Laki-Laki
+759,Joko Puspita,"Jl. Perintis Kemerdekaan No. 63, Gedawang",89736424809,Wanita
+760,Bayu Kurniawan,"Srondol Wetan, Semarang",0862-44795133,Laki-Laki
+761,Hendra Lestari,"Jl. Setiabudi No. 118, Banyumanik",89586780555,Laki-Laki
+762,Eko Hidayat,"Jl. Ngesrep Timur No. 54, Pudakpayung",0826 46091785,Wanita
+763,Agus Maulana,"Jl. Setiabudi No. 75, Sumurboto",87029929596,Wanita
+764,Nanda Kurniawan,"Jl. Ngesrep Timur No. 61, Ngesrep",82691163319,Wanita
+765,Aldi Santoso,"Jl. Tirto Agung No. 141, Ngesrep",83694551588,Laki-Laki
+766,Hendra Handayani,"Jl. Ngesrep Timur No. 74, Tinjomoyo",82640857216,Laki-Laki
+767,Putri Putri,"Jl. Grafika Raya No. 58, Pedalangan",89819960593,Laki-Laki
+768,Bayu Lestari,"Jl. Grafika Raya No. 100, Pudakpayung",83275327352,Wanita
+769,Mega Pratama,"Jl. Cemara Raya No. 119, Tinjomoyo",89732781952,Laki-Laki
+770,AGUS LESTARI,"Jl. Grafika Raya No. 105, Pudakpayung",86164819807,Wanita
+771,Joko Handayani,"Jl. Grafika Raya No. 94, Ngesrep",88761124912,Laki-Laki
+772,Bayu Maharani,"Jl. Durian Raya No. 124, Srondol Wetan",81517734547,Laki-Laki
+773,Rina Ramadhan,"Jl. Setiabudi No. 10, Pedalangan",88403595442,Laki-Laki
+774,Siti Hidayat,"Jl. Setiabudi No. 40, Pedalangan",89464303942,Wanita
+775,Intan Firmansyah,"Jl. Perintis Kemerdekaan No. 133, Ngesrep",89252985856,Wanita
+776,Aldi Maulana,"Ngesrep, Semarang",81534332491,Wanita
+777,Maya Oktaviani,"Jl. Cemara Raya No. 4, Pudakpayung",83506158148,Wanita
+778,Raka Saputra,"Jl. Cemara Raya No. 134, Srondol Wetan",84233720948,Wanita
+779,Agus Anggraini,"Jl. Mulawarman No. 34, Pudakpayung",0803-33997718,Laki-Laki
+780,Raka Lestari,"Jl. Ngesrep Timur nomor 30, Tinjomoyo",0873-18939749,Laki-Laki
+781,Aldi Wijaya,"Jl. Ngesrep Timur No. 50, Banyumanik",89704694725,Laki-Laki
+782,Taufik Kurniawan,"Jl. Setiabudi No. 68, Pudakpayung",85488471270,Laki-Laki
+783,Siti Santoso,"Jl. Mulawarman No. 111, Jabungan",81758231334,Laki-Laki
+784,Lia Maulana,"Jl. Mulawarman No. 77, Banyumanik",89252362292,Laki-Laki
+785,Anisa Puspita,"Jl. Setiabudi No. 59, Srondol Kulon",84524555746,Laki-Laki
+786,NANDA PUTRI,"Jl. Tirto Agung No. 15, Ngesrep",82740334450,Laki-Laki
+787,Raka Handayani,"Jl. Perintis Kemerdekaan No. 144, Srondol Wetan",89874113257,Laki-Laki
+788,Budi Handayani,"Jl. Ngesrep Timur No. 64, Srondol Kulon",89601054857,Wanita
+789,Siti Permata,"Jl. Mulawarman No. 84, Ngesrep",82949381735,Laki-Laki
+790,Vina Maulana,"Jl. Grafika Raya No. 36, Padangsari",85573257375,Wanita
+791,Bayu Ramadhan,"Jl. Cemara Raya No. 6, Pedalangan",86667080850,Laki-Laki
+792,Budi Maulana,"Jl. Perintis Kemerdekaan No. 126, Srondol Kulon",0851 19181828,Laki-Laki
+793,Dimas Anggraini,"Jl. Mulawarman No. 111, Srondol Kulon",0872-51295786,Laki-Laki
+794,YOGA KURNIAWAN,"Gedawang, Semarang",83562439587,Wanita
+795,Nanda Rahmawati,"Jl. Cemara Raya No. 40, Srondol Wetan",82342108902,Laki-Laki
+796,Citra Maharani,"Jl. Durian Raya No. 54, Srondol Wetan",82643350271,Wanita
+797,Rizky Anggraini,"Jl. Grafika Raya No. 115, Tinjomoyo",0857 63829174,Wanita
+798,Nanda Anggraini,"Jl. Ngesrep Timur No. 92, Sumurboto",0833-18574817,Wanita
+799,Nadia Putri,"Jl. Mulawarman No. 91, Sumurboto",0816-43167045,Wanita
+800,Aldi Setiawan,"Jl. Cemara Raya No. 3, Pedalangan",82270093459,Wanita
+801,Putri Santoso,"Jl. Perintis Kemerdekaan No. 39, Jabungan",85120734654,Laki-Laki
+802,Andi Pratama,"Jl. Grafika Raya No. 121, Gedawang",0826-08698221,Laki-Laki
+803, Mega Setiawan ,"Jl. Tirto Agung No. 17, Padangsari",87687290477,Wanita
+804,Lia Amelia,"Jl. Cemara Raya No. 25, Tinjomoyo",89323822311,Laki-Laki
+805, Joko Puspita ,"Jl. Durian Raya No. 58, Srondol Kulon",84579889425,Laki-Laki
+806,Bayu Permata,"Jabungan, Semarang",83202032650,Laki-Laki
+807,Siti Firmansyah,"Jl. Cemara Raya No. 104, Tinjomoyo",87948714855,Laki-Laki
+808,Lia Oktaviani,"Jl. Perintis Kemerdekaan nomor 117, Jabungan",85841560821,Laki-Laki
+809,Fitri Wijaya,"Jl. Perintis Kemerdekaan No. 76, Pedalangan",84768182683,Wanita
+810,Nanda Pratama,"Jl. Tembalang No. 135, Banyumanik",82988085838,Laki-Laki
+811,Fajar Wijaya,"Jl. Sukun Raya No. 58, Pedalangan",89634064686,Laki-Laki
+812,Lia Permata,"Jl. Setiabudi No. 1, Padangsari",88439910622,Wanita
+813,Nanda Setiawan,"Jl. Sukun Raya No. 108, Ngesrep",83351342619,Wanita
+814,Gita Hidayat,"Jl. Setiabudi No. 84, Gedawang",0896-48273619,Laki-Laki
+815,Eko Lestari,"Jl. Tembalang No. 70, Gedawang",0841 76927438,Wanita
+816,Agus Puspita,"Jl. Tembalang No. 62, Jabungan",86601444856,Laki-Laki
+817,MAYA LESTARI,"Jl. Mulawarman No. 125, Srondol Wetan",87396417899,Laki-Laki
+818, Budi Puspita ,"Jl. Cemara Raya nomor 26, Banyumanik",81359966057,Wanita
+819,Nadia Putri,"Jl. Grafika Raya No. 56, Banyumanik",80514607455,Wanita
+820,intan hidayat,"Jl. Tembalang No. 118, Jabungan",82388565271,Laki-Laki
+821,Dimas Amelia,"Jl. Durian Raya nomor 82, Srondol Kulon",81659726347,Laki-Laki
+822,Raka Hidayat,"Sumurboto, Semarang",81394884882,Wanita
+823, Gita Lestari ,"Jl. Cemara Raya No. 104, Srondol Kulon",0858 56261499,Laki-Laki
+824,hendra hidayat,"Jl. Durian Raya No. 141, Pedalangan",0840-73333732,Laki-Laki
+825,Hendra Pratama,"Jl. Ngesrep Timur No. 113, Ngesrep",88936289696,Laki-Laki
+826,Rina Firmansyah,"Jl. Tirto Agung No. 95, Sumurboto",0858 51253892,Laki-Laki
+827, Vina Maharani ,"Jl. Cemara Raya No. 59, Sumurboto",88374907977,Laki-Laki
+828,CITRA SANTOSO,"Jl. Perintis Kemerdekaan No. 115, Pudakpayung",80572151494,Wanita
+829,Rina Puspita,"Jl. Tirto Agung No. 35, Ngesrep",87484539862,Laki-Laki
+830,Aldi Pratama,"Jl. Grafika Raya No. 92, Banyumanik",81918623392,Wanita
+831,Anisa Oktaviani,"Jl. Mulawarman nomor 85, Padangsari",86966672521,Laki-Laki
+832,Fajar Putri,"Jl. Ngesrep Timur No. 24, Pedalangan",0863-35157184,Wanita
+833,Vina Saputra,"Pedalangan, Semarang",0880-05640995,Wanita
+834,Gita Puspita,"Jl. Sukun Raya No. 138, Srondol Wetan",81295927282,Wanita
+835,Dimas Saputra,"Jl. Mulawarman nomor 80, Srondol Kulon",85298217392,Laki-Laki
+836,Rizky Amelia,"Jl. Ngesrep Timur No. 30, Jabungan",81535237360,Wanita
+837,Dian Oktaviani,"Jl. Cemara Raya nomor 26, Pudakpayung",85899886834,Wanita
+838,Rizky Anggraini,"Jl. Tirto Agung No. 104, Ngesrep",81707158796,Laki-Laki
+839,Raka Kurniawan,"Jl. Grafika Raya No. 136, Gedawang",0814-99825080,Laki-Laki
+840,Nadia Anggraini,"Jl. Perintis Kemerdekaan No. 14, Jabungan",88828503172,Laki-Laki
+841,Citra Anggraini,"Jl. Durian Raya No. 147, Jabungan",80063140352,Wanita
+842,maya handayani,"Jl. Sukun Raya No. 37, Banyumanik",89469434606,Laki-Laki
+843,Intan Anggraini,"Banyumanik, Semarang",0860-72311127,Wanita
+844,Vina Maharani,"Jl. Setiabudi No. 102, Srondol Kulon",84494116318,Wanita
+845,EKO MAULANA,"Jl. Ngesrep Timur nomor 123, Padangsari",83062113695,Wanita
+846,Rizky Puspita,"Jl. Grafika Raya No. 129, Srondol Wetan",83509025425,Wanita
+847,Mega Saputra,"Jl. Tirto Agung No. 40, Srondol Kulon",81323570713,Laki-Laki
+848,Vina Santoso,"Jl. Perintis Kemerdekaan nomor 82, Gedawang",81688092550,Wanita
+849,BAYU SETIAWAN,"Banyumanik, Semarang",86913098107,Laki-Laki
+850,Joko Puspita,"Jl. Ngesrep Timur No. 61, Jabungan",89457727853,Laki-Laki
+851,Anisa Santoso,"Jl. Setiabudi No. 42, Sumurboto",82274918362,Laki-Laki
+852,Gita Handayani,"Jl. Tirto Agung No. 118, Tinjomoyo",86755562833,Wanita
+853,Yoga Anggraini,"Jl. Cemara Raya No. 94, Tinjomoyo",86543627187,Laki-Laki
+854,Budi Anggraini,"Jl. Tembalang No. 142, Pedalangan",86862703692,Wanita
+855,Anisa Handayani,"Jl. Durian Raya No. 39, Ngesrep",0873-27599801,Wanita
+856,andi pratama,"Jl. Tembalang No. 24, Sumurboto",83234159597,Laki-Laki
+857,Rina Santoso,"Jl. Setiabudi No. 26, Pudakpayung",82261896288,Laki-Laki
+858,Rina Ramadhan,"Jl. Durian Raya No. 30, Jabungan",87102676720,Laki-Laki
+859,Dian Hidayat,"Tinjomoyo, Semarang",87955151229,Laki-Laki
+860, Dian Permata ,"Jl. Durian Raya No. 83, Srondol Kulon",81597099625,Wanita
+861,Taufik Ramadhan,"Jl. Grafika Raya No. 126, Sumurboto",80344765047,Wanita
+862,LIA AMELIA,"Banyumanik, Semarang",84637660465,Laki-Laki
+863,Putri Maharani,"Jl. Tembalang No. 67, Pudakpayung",0813 62938471,Wanita
+864,Hendra Lestari,"Jl. Tembalang No. 17, Pedalangan",83110059129,Laki-Laki
+865,Anisa Maharani,"Jl. Mulawarman No. 32, Gedawang",0823-12110633,Wanita
+866,Nadia Maharani,"Jl. Perintis Kemerdekaan No. 50, Tinjomoyo",0879-27490728,Wanita
+867,Fajar Anggraini,"Jl. Sukun Raya No. 139, Banyumanik",81132532694,Laki-Laki
+868,Taufik Kurniawan,"Jl. Tirto Agung No. 65, Sumurboto",83804421017,Wanita
+869, Dimas Putri ,"Jl. Ngesrep Timur nomor 4, Jabungan",85959194575,Laki-Laki
+870,Maya Oktaviani,"Jl. Ngesrep Timur No. 81, Pudakpayung",83392056775,Laki-Laki
+871,Aldi Hidayat,"Jl. Sukun Raya No. 37, Ngesrep",80256265062,Wanita
+872,GITA WIJAYA,"Jl. Tirto Agung No. 121, Pedalangan",85307624843,Laki-Laki
+873,Dimas Oktaviani,"Jl. Tirto Agung No. 41, Tinjomoyo",80511579423,Laki-Laki
+874,Raka Anggraini,"Jl. Ngesrep Timur No. 4, Srondol Kulon",82549691928,Laki-Laki
+875,Agus Firmansyah,"Jl. Sukun Raya No. 95, Banyumanik",81075633535,Laki-Laki
+876,Raka Ramadhan,"Jl. Tembalang No. 148, Sumurboto",83259399337,Laki-Laki
+877,Mega Pratama,"Jl. Perintis Kemerdekaan No. 25, Ngesrep",82951877941,Laki-Laki
+878,Nanda Anggraini,"Jl. Setiabudi No. 37, Sumurboto",80733055978,Laki-Laki
+879,Lia Oktaviani,"Jl. Cemara Raya No. 138, Srondol Wetan",83991403884,Laki-Laki
+880,Putri Pratama,"Jl. Setiabudi No. 53, Pedalangan",80061572768,Laki-Laki
+881, Nanda Maharani ,"Jl. Setiabudi No. 117, Srondol Kulon",89742925010,Laki-Laki
+882,Maya Permata,"Jl. Tirto Agung No. 141, Gedawang",86562590459,Wanita
+883,mega maulana,"Padangsari, Semarang",0822 18231555,Laki-Laki
+884,Lia Lestari,"Jl. Tirto Agung No. 140, Gedawang",86628137214,Wanita
+885,BUDI AMELIA,"Tinjomoyo, Semarang",0803-32285566,Laki-Laki
+886,Siti Pratama,"Padangsari, Semarang",83903397051,Laki-Laki
+887,Taufik Santoso,"Pudakpayung, Semarang",89448586239,Laki-Laki
+888,Gita Maharani,"Jl. Tirto Agung No. 31, Jabungan",87079863210,Wanita
+889,Agus Anggraini,"Jl. Cemara Raya No. 77, Jabungan",0894-57039438,Laki-Laki
+890,Andi Anggraini,"Jl. Tembalang No. 53, Tinjomoyo",86576927789,Wanita
+891, Citra Puspita ,"Banyumanik, Semarang",80404769210,Wanita
+892,Anisa Anggraini,"Jl. Tembalang No. 20, Srondol Kulon",80401424731,Wanita
+893,Mega Oktaviani,"Jl. Grafika Raya No. 29, Padangsari",83798440971,Wanita
+894,Gita Lestari,"Jl. Tirto Agung No. 8, Gedawang",86762090144,Laki-Laki
+895,GITA RAMADHAN,"Jl. Setiabudi No. 49, Srondol Wetan",87009687304,Wanita
+896,Dimas Firmansyah,"Jl. Ngesrep Timur No. 140, Pedalangan",85882556296,Laki-Laki
+897,Maya Kurniawan,"Jl. Ngesrep Timur No. 139, Ngesrep",86194255778,Wanita
+898,Mega Saputra,"Jl. Perintis Kemerdekaan No. 38, Banyumanik",88292361618,Wanita
+899,Taufik Wijaya,"Jl. Grafika Raya No. 66, Pudakpayung",82357155868,Laki-Laki
+900,Hendra Rahmawati,"Jl. Tirto Agung No. 28, Srondol Wetan",87230817214,Laki-Laki
+901,Joko Anggraini,"Gedawang, Semarang",80413211471,Laki-Laki
+902,BAYU HANDAYANI,"Jl. Cemara Raya No. 77, Sumurboto",85346997990,Laki-Laki
+903,Budi Oktaviani,"Jl. Tembalang No. 8, Srondol Kulon",87681699570,Wanita
+904,Siti Lestari,"Jl. Setiabudi nomor 140, Padangsari",83176539705,Laki-Laki
+905,Gita Puspita,"Jl. Mulawarman No. 3, Jabungan",89087182749,Wanita
+906,Intan Rahmawati,"Jl. Perintis Kemerdekaan No. 126, Pedalangan",84204956121,Laki-Laki
+907,SITI SETIAWAN,"Ngesrep, Semarang",84235973711,Wanita
+908,Eko Puspita,"Jl. Grafika Raya No. 113, Tinjomoyo",86085816704,Laki-Laki
+909, Citra Lestari ,"Jl. Setiabudi No. 92, Tinjomoyo",88321021923,Laki-Laki
+910,Vina Ramadhan,"Jl. Mulawarman No. 48, Banyumanik",81803324260,Wanita
+911, Taufik Pratama ,"Jl. Perintis Kemerdekaan No. 69, Banyumanik",80425373377,Wanita
+912,Dewi Santoso,"Jl. Perintis Kemerdekaan No. 139, Padangsari",82821781923,Laki-Laki
+913,Fitri Firmansyah,"Jl. Setiabudi No. 105, Gedawang",86056035679,Wanita
+914,Siti Puspita,"Jl. Tirto Agung No. 41, Srondol Wetan",0884 71690618,Wanita
+915,Nanda Saputra,"Jl. Setiabudi No. 101, Srondol Kulon",85489547876,Wanita
+916, Siti Maharani ,"Jl. Ngesrep Timur No. 88, Pudakpayung",89144449835,Wanita
+917,Yoga Anggraini,"Jl. Setiabudi No. 50, Sumurboto",86449639243,Laki-Laki
+918,Rina Amelia,"Jl. Tembalang No. 53, Tinjomoyo",88214339527,Wanita
+919,Nadia Oktaviani,"Jl. Setiabudi No. 146, Tinjomoyo",0852-49141686,Wanita
+920,Gita Ramadhan,"Jl. Ngesrep Timur No. 141, Banyumanik",88963406791,Laki-Laki
+921,Nadia Maharani,"Jl. Sukun Raya No. 47, Padangsari",80014188421,Laki-Laki
+922,Gita Saputra,"Jl. Cemara Raya nomor 16, Gedawang",85944633399,Laki-Laki
+923,Dian Amelia,"Jl. Durian Raya No. 39, Gedawang",0895 32638902,Laki-Laki
+924,Raka Oktaviani,"Jl. Mulawarman No. 64, Ngesrep",83792234103,Laki-Laki
+925,Putri Rahmawati,"Jl. Tirto Agung No. 115, Srondol Wetan",81167726960,Laki-Laki
+926,Gita Oktaviani,"Sumurboto, Semarang",87896793521,Laki-Laki
+927,Fajar Handayani,"Jl. Durian Raya No. 81, Sumurboto",84343697093,Wanita
+928,Rizky Pratama,"Jl. Cemara Raya No. 89, Sumurboto",80767616453,Laki-Laki
+929,Dian Ramadhan,"Jl. Sukun Raya No. 44, Srondol Wetan",88983065031,Wanita
+930,Citra Puspita,"Jl. Perintis Kemerdekaan nomor 13, Srondol Kulon",88472426423,Laki-Laki
+931,fajar maulana,"Banyumanik, Semarang",89248762303,Wanita
+932,Citra Wijaya,"Jl. Sukun Raya No. 137, Padangsari",87852282305,Laki-Laki
+933,Taufik Pratama,"Jl. Perintis Kemerdekaan No. 15, Ngesrep",82072239594,Wanita
+934,Rizky Santoso,"Jl. Mulawarman No. 64, Pedalangan",89016204787,Laki-Laki
+935,Vina Amelia,"Jl. Tirto Agung No. 135, Tinjomoyo",88599648628,Wanita
+936,Raka Saputra,"Jl. Mulawarman nomor 95, Srondol Kulon",89666450573,Wanita
+937,Gita Putri,"Jl. Sukun Raya No. 116, Banyumanik",82463203747,Laki-Laki
+938,Rina Hidayat,"Jl. Durian Raya No. 119, Pedalangan",80321450576,Laki-Laki
+939,Citra Puspita,"Jl. Tembalang No. 132, Pudakpayung",0807 15534820,Wanita
+940,Agus Amelia,"Jl. Grafika Raya No. 7, Pudakpayung",88507659759,Laki-Laki
+941,Maya Saputra,"Jl. Cemara Raya No. 32, Tinjomoyo",87680898126,Laki-Laki
+942,Agus Ramadhan,"Jl. Sukun Raya No. 51, Padangsari",86463004023,Wanita
+943,Putri Permata,"Jl. Perintis Kemerdekaan No. 146, Srondol Kulon",80120471372,Laki-Laki
+944,Dewi Lestari,"Jl. Ngesrep Timur No. 88, Banyumanik",85749885582,Laki-Laki
+945,Raka Puspita,"Jl. Durian Raya No. 58, Gedawang",87458476094,Wanita
+946,Fitri Permata,"Jl. Durian Raya No. 57, Srondol Wetan",82188566695,Wanita
+947,Hendra Santoso,"Sumurboto, Semarang",86662670551,Wanita
+948,Siti Oktaviani,"Jl. Cemara Raya No. 55, Ngesrep",83439252959,Wanita
+949, Dewi Lestari ,"Jl. Grafika Raya No. 39, Pudakpayung",87120072024,Laki-Laki
+950, Bayu Rahmawati ,"Jl. Grafika Raya No. 43, Srondol Kulon",81091090326,Wanita
+951,Intan Rahmawati,"Jl. Cemara Raya No. 135, Padangsari",84217942817,Wanita
+952,RINA KURNIAWAN,"Jl. Tirto Agung No. 87, Jabungan",87758446634,Laki-Laki
+953,Gita Setiawan,"Jl. Sukun Raya nomor 40, Gedawang",80912172214,Laki-Laki
+954,Rina Maharani,"Jl. Durian Raya No. 124, Ngesrep",81894370526,Laki-Laki
+955,CITRA SAPUTRA,"Jl. Setiabudi No. 100, Pedalangan",0876-57256592,Wanita
+956, Intan Putri ,"Pedalangan, Semarang",82389743260,Wanita
+957,Anisa Firmansyah,"Sumurboto, Semarang",81783325848,Wanita
+958,Putri Saputra,"Jl. Cemara Raya No. 141, Srondol Kulon",87045069176,Wanita
+959,Dian Maharani,"Jl. Durian Raya No. 116, Srondol Kulon",80394640830,Laki-Laki
+960,HENDRA HANDAYANI,"Jl. Tirto Agung No. 13, Padangsari",88860849079,Laki-Laki
+961,Nanda Wijaya,"Jl. Tirto Agung No. 144, Sumurboto",0858-39274618,Laki-Laki
+962,Fajar Kurniawan,"Jl. Setiabudi No. 107, Pedalangan",83251448811,Wanita
+963,Aldi Pratama,"Jl. Mulawarman nomor 70, Pedalangan",87518878179,Wanita
+964,Maya Lestari,"Jl. Sukun Raya No. 100, Srondol Wetan",84091122528,Wanita
+965,SITI FIRMANSYAH,"Jl. Tembalang nomor 100, Ngesrep",88632397913,Laki-Laki
+966,Vina Hidayat,"Srondol Wetan, Semarang",80730950556,Wanita
+967, Lia Hidayat ,"Jl. Sukun Raya No. 25, Banyumanik",88192778851,Wanita
+968,Raka Maharani,"Jl. Setiabudi No. 138, Ngesrep",80104246245,Wanita
+969,taufik firmansyah,"Jl. Ngesrep Timur No. 79, Srondol Kulon",0800 45212899,Laki-Laki
+970,Dewi Wijaya,"Jl. Tembalang No. 82, Padangsari",0893 91304488,Laki-Laki
+971,Dian Amelia,"Jl. Setiabudi No. 26, Ngesrep",80461540211,Wanita
+972,dewi oktaviani,"Jl. Ngesrep Timur No. 93, Ngesrep",81429831522,Wanita
+973,Anisa Pratama,"Jl. Durian Raya No. 33, Pedalangan",88360849378,Wanita
+974,Putri Anggraini,"Jl. Tirto Agung No. 50, Pudakpayung",89574829163,Laki-Laki
+975,Intan Puspita,"Jl. Grafika Raya No. 30, Ngesrep",83429291320,Wanita
+976,Agus Saputra,"Jl. Mulawarman No. 102, Pedalangan",84190310615,Laki-Laki
+977,Eko Permata,"Jl. Mulawarman No. 95, Sumurboto",86847323653,Wanita
+978,Siti Oktaviani,"Srondol Kulon, Semarang",0867 20078436,Laki-Laki
+979,Eko Kurniawan,"Jl. Sukun Raya No. 110, Gedawang",88197543734,Laki-Laki
+980,Intan Santoso,"Pedalangan, Semarang",83763882145,Laki-Laki
+981,Rina Wijaya,"Ngesrep, Semarang",81913443899,Wanita
+982,Anisa Oktaviani,"Jl. Grafika Raya No. 39, Gedawang",88695073214,Laki-Laki
+983,Intan Ramadhan,"Jl. Durian Raya No. 103, Jabungan",0899-51679335,Laki-Laki
+984,Maya Oktaviani,"Jl. Durian Raya No. 137, Sumurboto",0836-80119236,Wanita
+985,Rizky Putri,"Jl. Mulawarman No. 27, Jabungan",87233351040,Laki-Laki
+986,Dewi Ramadhan,"Jl. Cemara Raya nomor 116, Srondol Wetan",85391149830,Laki-Laki
+987,Vina Santoso,"Jl. Grafika Raya No. 126, Srondol Wetan",85118939406,Laki-Laki
+988,Dian Firmansyah,"Pedalangan, Semarang",81904322302,Wanita
+989,Gita Permata,"Jl. Ngesrep Timur No. 16, Jabungan",83920135462,Wanita
+990,Fitri Santoso,"Jl. Tirto Agung No. 2, Pedalangan",80826112312,Wanita
+991,Putri Setiawan,"Jl. Sukun Raya No. 69, Pudakpayung",88899572989,Laki-Laki
+992,Putri Santoso,"Jl. Ngesrep Timur No. 72, Sumurboto",89303646871,Wanita
+993,raka permata,"Jl. Durian Raya No. 137, Padangsari",87692082832,Wanita
+994,Taufik Puspita,"Jl. Mulawarman No. 62, Pudakpayung",81588144582,Wanita
+995,Putri Oktaviani,"Jl. Sukun Raya nomor 57, Jabungan",88297168157,Laki-Laki
+996,ALDI MAHARANI,"Jl. Grafika Raya No. 3, Gedawang",0800 15291137,Laki-Laki
+997,Raka Amelia,"Jl. Tembalang No. 15, Jabungan",89025561844,Wanita
+998,Citra Amelia,"Jl. Cemara Raya No. 148, Pudakpayung",84781224890,Laki-Laki
+999,Siti Saputra,"Gedawang, Semarang",89004365515,Laki-Laki
+1000,Taufik Permata,"Jl. Tirto Agung No. 145, Padangsari",86248355054,Laki-Laki
+1001,Agus Saputra,"Jl. Grafika Raya No. 121, Gedawang",83369987950,Wanita
+1002,eko lestari,"Jl. Setiabudi No. 13, Padangsari",84818804428,Laki-Laki
+1003,Mega Setiawan,"Jl. Durian Raya No. 97, Srondol Wetan",81643212694,Wanita
+1004,Taufik Rahmawati,"Jl. Setiabudi No. 105, Srondol Kulon",80362586314,Laki-Laki
+1005,citra hidayat,"Jl. Tirto Agung No. 75, Jabungan",82554026355,Wanita
+1006,Joko Anggraini,"Jl. Grafika Raya No. 22, Tinjomoyo",84644898803,Wanita
+1007,Maya Setiawan,"Jl. Perintis Kemerdekaan No. 133, Pedalangan",85279050404,Wanita
+1008,Dian Anggraini,"Jl. Tembalang No. 50, Pudakpayung",89516321119,Laki-Laki
+1009,Agus Wijaya,"Jl. Grafika Raya No. 51, Srondol Wetan",0813-73265306,Wanita
+1010,Citra Puspita,"Jl. Perintis Kemerdekaan No. 128, Sumurboto",0817-86880023,Wanita
+1011,Yoga Wijaya,"Jl. Tirto Agung No. 29, Pudakpayung",89803657744,Wanita
+1012,AGUS PUTRI,"Jl. Cemara Raya No. 55, Ngesrep",89520149118,Laki-Laki
+1013,Dewi Amelia,"Jl. Durian Raya No. 60, Ngesrep",87509263223,Wanita
+1014,Citra Setiawan,"Jl. Setiabudi No. 86, Sumurboto",81140428860,Wanita
+1015,Nanda Maharani,"Jl. Ngesrep Timur No. 102, Ngesrep",80811260030,Wanita
+1016,Maya Handayani,"Jl. Cemara Raya No. 23, Gedawang",82715312345,Wanita
+1017,Fitri Putri,"Jl. Perintis Kemerdekaan No. 47, Ngesrep",81776829384,Wanita
+1018,Dewi Setiawan,"Jl. Perintis Kemerdekaan No. 2, Pudakpayung",83543788260,Wanita
+1019,Anisa Firmansyah,"Jl. Mulawarman No. 14, Padangsari",85709085991,Laki-Laki
+1020,YOGA SANTOSO,"Jl. Ngesrep Timur No. 66, Banyumanik",86999699648,Laki-Laki
+1021,Citra Maulana,"Jl. Sukun Raya No. 138, Sumurboto",86932591408,Wanita
+1022, Fajar Anggraini ,"Jl. Sukun Raya No. 58, Srondol Kulon",82669806908,Wanita
+1023,Nadia Wijaya,"Jl. Tirto Agung No. 8, Jabungan",82348389359,Wanita
+1024,Mega Maulana,"Srondol Kulon, Semarang",85612996508,Laki-Laki
+1025,Yoga Firmansyah,"Jl. Sukun Raya No. 112, Jabungan",81869656130,Laki-Laki
+1026, Raka Putri ,"Jl. Sukun Raya No. 49, Pudakpayung",89514346823,Laki-Laki
+1027,Aldi Maulana,"Jl. Grafika Raya No. 8, Pedalangan",0830 08696610,Laki-Laki
+1028,taufik anggraini,"Jl. Mulawarman No. 50, Banyumanik",80016809414,Wanita
+1029,aldi maharani,"Jl. Ngesrep Timur No. 105, Pedalangan",88397620534,Wanita
+1030,Mega Oktaviani,"Jl. Ngesrep Timur No. 73, Ngesrep",80726629250,Wanita
+1031,Agus Oktaviani,"Jl. Ngesrep Timur No. 99, Gedawang",89914068841,Wanita
+1032,Gita Hidayat,"Jl. Mulawarman No. 34, Sumurboto",82356178170,Wanita
+1033, Bayu Wijaya ,"Jl. Cemara Raya No. 42, Gedawang",81363852778,Laki-Laki
+1034,Nadia Wijaya,"Jl. Durian Raya No. 115, Padangsari",88444902950,Laki-Laki
+1035,joko maulana,"Jl. Mulawarman No. 111, Srondol Kulon",80373416781,Laki-Laki
+1036,Agus Oktaviani,"Pedalangan, Semarang",80217982134,Laki-Laki
+1037,Fajar Rahmawati,"Jl. Tembalang No. 126, Jabungan",87363831828,Laki-Laki
+1038,Putri Pratama,"Jl. Durian Raya No. 147, Tinjomoyo",80798661770,Laki-Laki
+1039,Hendra Handayani,"Jl. Sukun Raya No. 4, Sumurboto",80682122355,Wanita
+1040,Citra Handayani,"Jl. Tembalang No. 4, Sumurboto",87146921821,Wanita
+1041,Lia Rahmawati,"Jl. Ngesrep Timur No. 11, Pudakpayung",88436998480,Wanita
+1042,Mega Saputra,"Jl. Grafika Raya No. 59, Jabungan",86948424959,Wanita
+1043,Anisa Lestari,"Jl. Tembalang No. 116, Jabungan",88707152386,Laki-Laki
+1044,Siti Anggraini,"Jl. Sukun Raya No. 7, Banyumanik",84619177987,Wanita
+1045,Aldi Puspita,"Jl. Tirto Agung No. 130, Tinjomoyo",82258937085,Wanita
+1046,Nadia Santoso,"Jl. Durian Raya No. 95, Gedawang",0840-56695790,Wanita
+1047,Fajar Ramadhan,"Jl. Sukun Raya No. 88, Sumurboto",84286796325,Laki-Laki
+1048,Fajar Setiawan,"Jl. Sukun Raya No. 137, Banyumanik",0863 38915624,Laki-Laki
+1049,Fajar Amelia,"Jl. Tembalang No. 124, Pedalangan",86292693358,Laki-Laki
+1050,Dewi Setiawan,"Jl. Mulawarman No. 144, Ngesrep",85078468509,Laki-Laki
+1051,Nanda Kurniawan,"Jl. Durian Raya No. 2, Srondol Wetan",0891-89117972,Wanita
+1052,Taufik Maharani,"Jl. Durian Raya nomor 69, Gedawang",85364154715,Wanita
+1053,Dewi Anggraini,"Jl. Sukun Raya No. 94, Banyumanik",86781367500,Laki-Laki
+1054,Aldi Permata,"Padangsari, Semarang",85276981987,Wanita
+1055,Dimas Permata,"Jl. Ngesrep Timur No. 2, Srondol Kulon",82388856225,Laki-Laki
+1056,Putri Saputra,"Jl. Cemara Raya No. 130, Ngesrep",87874422758,Laki-Laki
+1057,Vina Maharani,"Jl. Cemara Raya No. 109, Sumurboto",89428249116,Wanita
+1058,eko pratama,"Jl. Grafika Raya No. 40, Srondol Kulon",83931321551,Wanita
+1059,Lia Maharani,"Jl. Grafika Raya No. 134, Srondol Wetan",86821444889,Laki-Laki
+1060,Yoga Puspita,"Jl. Ngesrep Timur No. 37, Tinjomoyo",83677462025,Wanita
+1061,Dian Firmansyah,"Jl. Durian Raya No. 18, Pudakpayung",82812312392,Wanita
+1062,Anisa Kurniawan,"Jl. Mulawarman No. 16, Ngesrep",80183647238,Laki-Laki
+1063,Andi Amelia,"Jl. Ngesrep Timur No. 104, Pudakpayung",81722577545,Laki-Laki
+1064,Siti Permata,"Jl. Sukun Raya No. 147, Gedawang",0829-18768316,Wanita
+1065,Rina Hidayat,"Jl. Ngesrep Timur No. 45, Padangsari",83373992052,Wanita
+1066,Yoga Rahmawati,"Jl. Durian Raya nomor 106, Pedalangan",86591438823,Laki-Laki
+1067,Anisa Firmansyah,"Jl. Durian Raya No. 148, Pudakpayung",85844617773,Laki-Laki
+1068,JOKO SETIAWAN,"Jl. Cemara Raya No. 86, Srondol Kulon",89791279970,Wanita
+1069,Rizky Lestari,"Jl. Grafika Raya No. 85, Srondol Wetan",89787137529,Wanita
+1070,EKO PERMATA,"Jl. Mulawarman No. 35, Sumurboto",80832004879,Laki-Laki
+1071,Taufik Maulana,"Jl. Cemara Raya No. 113, Sumurboto",83585238600,Wanita
+1072,Intan Kurniawan,"Jl. Tirto Agung No. 21, Banyumanik",85171523910,Wanita
+1073,Anisa Rahmawati,"Jabungan, Semarang",0814-37483093,Laki-Laki
+1074,Siti Lestari,"Jl. Cemara Raya No. 128, Padangsari",81260221321,Laki-Laki
+1075,Putri Hidayat,"Jl. Sukun Raya No. 14, Padangsari",81116612201,Wanita
+1076,Rizky Permata,"Jl. Tembalang No. 136, Tinjomoyo",83930493665,Wanita
+1077,Bayu Santoso,"Jl. Setiabudi No. 134, Padangsari",84211408682,Wanita
+1078,Yoga Maharani,"Jl. Sukun Raya No. 74, Ngesrep",80935561039,Laki-Laki
+1079,Eko Rahmawati,"Jl. Grafika Raya No. 25, Srondol Wetan",81243658585,Laki-Laki
+1080,Nanda Permata,"Jl. Grafika Raya No. 67, Padangsari",82027061592,Wanita
+1081,Vina Oktaviani,"Jl. Grafika Raya No. 43, Banyumanik",0812 48372916,Laki-Laki
+1082,Taufik Wijaya,"Jl. Tembalang No. 67, Pedalangan",80340301095,Laki-Laki
+1083,Yoga Hidayat,"Banyumanik, Semarang",85795546234,Wanita
+1084,Eko Ramadhan,"Padangsari, Semarang",88018103068,Wanita
+1085,Rizky Handayani,"Jl. Mulawarman No. 126, Pedalangan",88080815712,Wanita
+1086,Aldi Wijaya,"Jl. Grafika Raya No. 119, Padangsari",0880 67130735,Wanita
+1087,Fitri Kurniawan,"Jl. Perintis Kemerdekaan No. 71, Tinjomoyo",83621300962,Laki-Laki
+1088,Rizky Putri,"Tinjomoyo, Semarang",83180533962,Laki-Laki
+1089,Fitri Putri,"Jl. Tirto Agung No. 39, Padangsari",89183270004,Laki-Laki
+1090,Putri Wijaya,"Jl. Tembalang nomor 7, Padangsari",80797714004,Wanita
+1091,vina amelia,"Banyumanik, Semarang",0853-15204998,Laki-Laki
+1092,Anisa Puspita,"Jl. Tirto Agung No. 136, Tinjomoyo",83137971669,Laki-Laki
+1093,Dewi Putri,"Jl. Mulawarman No. 39, Srondol Wetan",84077943325,Wanita
+1094,Gita Maulana,"Jl. Cemara Raya No. 75, Banyumanik",81970142620,Laki-Laki
+1095,Budi Maulana,"Jl. Perintis Kemerdekaan nomor 44, Padangsari",86020418135,Laki-Laki
+1096, Mega Permata ,"Jl. Mulawarman No. 114, Gedawang",88894801864,Wanita
+1097,Fajar Wijaya,"Jl. Tembalang No. 134, Pudakpayung",0839-78570820,Laki-Laki
+1098,Vina Saputra,"Jl. Ngesrep Timur No. 82, Tinjomoyo",81236914961,Wanita
+1099,Dian Santoso,"Jl. Ngesrep Timur No. 70, Pedalangan",0868-82769704,Laki-Laki
+1100,Hendra Wijaya,"Jl. Mulawarman nomor 149, Ngesrep",85607832748,Wanita
+1101,Lia Handayani,"Jl. Mulawarman No. 118, Banyumanik",86240964966,Wanita
+1102,Agus Ramadhan,"Jl. Tirto Agung No. 7, Srondol Kulon",88421702851,Wanita
+1103,Fajar Firmansyah,"Jl. Durian Raya No. 105, Srondol Kulon",88208934868,Wanita
+1104,Dimas Saputra,"Jl. Sukun Raya No. 67, Ngesrep",0828 79916091,Laki-Laki
+1105, Citra Anggraini ,"Jl. Cemara Raya No. 64, Sumurboto",89236133760,Wanita
+1106,Hendra Saputra,"Jl. Tembalang nomor 143, Pudakpayung",0821-63847219,Wanita
+1107,Putri Maharani,"Jl. Grafika Raya No. 50, Srondol Kulon",80966177182,Laki-Laki
+1108,Dimas Amelia,"Jl. Perintis Kemerdekaan No. 11, Pudakpayung",80678214174,Wanita
+1109,Raka Setiawan,"Jl. Cemara Raya No. 48, Ngesrep",86486989396,Laki-Laki
+1110,Joko Maulana,"Jl. Cemara Raya No. 80, Padangsari",85945011929,Wanita
+1111,Budi Oktaviani,"Jl. Durian Raya No. 98, Gedawang",81171603988,Wanita
+1112,Putri Maharani,"Jl. Tirto Agung No. 33, Padangsari",0894-55906700,Laki-Laki
+1113,Raka Permata,"Jl. Perintis Kemerdekaan No. 149, Srondol Kulon",80466489667,Wanita
+1114,Lia Putri,"Jl. Sukun Raya No. 4, Srondol Kulon",86577580974,Laki-Laki
+1115,Hendra Anggraini,"Jl. Cemara Raya No. 8, Ngesrep",0835-46622654,Wanita
+1116,Nadia Maharani,"Srondol Wetan, Semarang",80622122427,Laki-Laki
+1117,Rina Oktaviani,"Jl. Tirto Agung No. 35, Sumurboto",81601124115,Laki-Laki
+1118,Vina Maulana,"Jl. Tirto Agung No. 16, Gedawang",85672948163,Wanita
+1119,Aldi Lestari,"Tinjomoyo, Semarang",84726426121,Wanita
+1120,Gita Maulana,"Jl. Durian Raya No. 123, Sumurboto",86596807852,Laki-Laki
+1121,Taufik Santoso,"Jl. Sukun Raya No. 32, Jabungan",83854540064,Laki-Laki
+1122,Joko Hidayat,"Jl. Sukun Raya nomor 51, Padangsari",82327489791,Laki-Laki
+1123,Mega Handayani,"Jl. Durian Raya No. 63, Jabungan",82720388621,Laki-Laki
+1124,Rina Pratama,"Jl. Perintis Kemerdekaan No. 16, Padangsari",86304530693,Wanita
+1125,Intan Puspita,"Srondol Kulon, Semarang",0801-81677848,Laki-Laki
+1126,Maya Santoso,"Jl. Setiabudi No. 66, Jabungan",84460838517,Wanita
+1127, Rizky Amelia ,"Jl. Grafika Raya No. 83, Srondol Wetan",89128788486,Laki-Laki
+1128,Yoga Maulana,"Jl. Sukun Raya No. 16, Srondol Kulon",87927147246,Wanita
+1129,Raka Lestari,"Jl. Cemara Raya No. 139, Ngesrep",84242383972,Wanita
+1130, Hendra Rahmawati ,"Jl. Sukun Raya No. 29, Jabungan",0887-06293288,Wanita
+1131,Fajar Permata,"Jl. Grafika Raya No. 30, Gedawang",0832 00186766,Wanita
+1132,Dian Pratama,"Jl. Cemara Raya No. 143, Jabungan",86108143561,Wanita
+1133,Dian Setiawan,"Jl. Setiabudi No. 82, Jabungan",81980746823,Laki-Laki
+1134,Putri Rahmawati,"Jl. Mulawarman No. 9, Gedawang",80762054596,Wanita
+1135,Lia Pratama,"Jl. Grafika Raya No. 112, Ngesrep",86641106541,Wanita
+1136,Rina Setiawan,"Jl. Grafika Raya No. 115, Pudakpayung",0816-99497089,Laki-Laki
+1137,Nanda Amelia,"Jl. Durian Raya No. 111, Ngesrep",83482689996,Laki-Laki
+1138,DIMAS HIDAYAT,"Jl. Perintis Kemerdekaan No. 60, Pudakpayung",88889178791,Wanita
+1139,Maya Rahmawati,"Tinjomoyo, Semarang",89760932012,Laki-Laki
+1140,Rizky Maulana,"Ngesrep, Semarang",84180952175,Laki-Laki
+1141,Dewi Hidayat,"Jl. Ngesrep Timur No. 75, Padangsari",82746921188,Laki-Laki
+1142,Citra Puspita,"Jl. Cemara Raya No. 104, Pedalangan",84222975891,Wanita
+1143,Raka Ramadhan,"Jl. Tembalang nomor 69, Pedalangan",0885-45705682,Wanita
+1144,Eko Firmansyah,"Jl. Grafika Raya No. 148, Gedawang",80163564072,Wanita
+1145,Intan Oktaviani,"Jl. Perintis Kemerdekaan No. 42, Pudakpayung",85400178822,Laki-Laki
+1146,Rina Hidayat,"Ngesrep, Semarang",0868 50710580,Wanita
+1147,YOGA FIRMANSYAH,"Jl. Cemara Raya nomor 46, Tinjomoyo",81526105370,Wanita
+1148,GITA SAPUTRA,"Jl. Ngesrep Timur No. 19, Ngesrep",85007418948,Laki-Laki
+1149,Rina Kurniawan,"Jl. Sukun Raya No. 146, Pudakpayung",86989365294,Laki-Laki
+1150,Nanda Wijaya,"Jl. Mulawarman No. 132, Pedalangan",83481310450,Laki-Laki
+1151,Nanda Amelia,"Jl. Cemara Raya No. 104, Srondol Wetan",82174357483,Wanita
+1152,putri maulana,"Jl. Tirto Agung No. 70, Pudakpayung",80673983448,Wanita
+1153,Vina Kurniawan,"Jl. Tembalang No. 59, Ngesrep",84628055077,Wanita
+1154,Nadia Firmansyah,"Jl. Cemara Raya nomor 86, Sumurboto",85623920908,Laki-Laki
+1155,Dewi Saputra,"Jl. Setiabudi No. 8, Jabungan",81311178619,Wanita
+1156,Eko Maharani,"Jl. Ngesrep Timur No. 100, Gedawang",82206953541,Wanita
+1157,Andi Lestari,"Jl. Sukun Raya No. 47, Tinjomoyo",89500260151,Wanita
+1158,Aldi Santoso,"Jl. Cemara Raya No. 67, Tinjomoyo",0878 37462918,Laki-Laki
+1159,dimas amelia,"Jabungan, Semarang",83100649340,Wanita
+1160,Andi Ramadhan,"Jl. Sukun Raya No. 9, Srondol Wetan",80894118491,Laki-Laki
+1161,Mega Puspita,"Jl. Sukun Raya No. 140, Sumurboto",0835-95205610,Laki-Laki
+1162,Siti Rahmawati,"Jl. Grafika Raya No. 5, Ngesrep",86801867740,Wanita
+1163,Siti Maulana,"Jl. Sukun Raya No. 56, Jabungan",89449530067,Laki-Laki
+1164,Nanda Santoso,"Jl. Tembalang No. 3, Srondol Wetan",85017365426,Laki-Laki
+1165,Dewi Hidayat,"Banyumanik, Semarang",82923345110,Wanita
+1166,Yoga Saputra,"Jl. Tirto Agung No. 12, Sumurboto",0808 86843021,Laki-Laki
+1167,Nadia Hidayat,"Jl. Sukun Raya No. 2, Srondol Kulon",0857 59887592,Wanita
+1168,Yoga Rahmawati,"Jl. Tirto Agung No. 80, Pedalangan",80336202755,Wanita
+1169,Citra Ramadhan,"Jl. Ngesrep Timur No. 7, Banyumanik",80711523802,Laki-Laki
+1170, Rina Santoso ,"Jl. Cemara Raya No. 44, Padangsari",0881 89705916,Wanita
+1171,Taufik Putri,"Jl. Perintis Kemerdekaan No. 96, Sumurboto",88195977216,Wanita
+1172,Rina Saputra,"Jl. Tembalang No. 61, Tinjomoyo",89318692897,Laki-Laki
+1173,lia kurniawan,"Jl. Mulawarman No. 132, Pedalangan",0813-92847163,Wanita
+1174,eko permata,"Jl. Setiabudi No. 23, Srondol Kulon",87432811659,Wanita
+1175,Rina Pratama,"Pedalangan, Semarang",85763829147,Wanita
+1176,Hendra Firmansyah,"Jl. Durian Raya No. 11, Pedalangan",81650646300,Wanita
+1177,Dian Hidayat,"Jl. Ngesrep Timur No. 92, Ngesrep",81983210291,Wanita
+1178,Siti Kurniawan,"Jl. Cemara Raya No. 11, Pedalangan",88310438419,Laki-Laki
+1179,Fajar Permata,"Jl. Mulawarman No. 52, Padangsari",87080568566,Wanita
+1180,Nadia Setiawan,"Jl. Tirto Agung No. 40, Padangsari",88655049444,Wanita
+1181,Rizky Putri,"Jl. Durian Raya No. 79, Banyumanik",83396504962,Wanita
+1182,Eko Santoso,"Jl. Sukun Raya nomor 112, Padangsari",84243625854,Wanita
+1183,Dewi Maulana,"Jl. Grafika Raya No. 137, Tinjomoyo",89196234199,Laki-Laki
+1184,Intan Setiawan,"Jl. Perintis Kemerdekaan No. 87, Srondol Wetan",84725058333,Wanita
+1185,Fitri Saputra,"Jl. Durian Raya No. 20, Padangsari",85876054576,Laki-Laki
+1186,Siti Maharani,"Jl. Tirto Agung No. 69, Jabungan",83536597466,Laki-Laki
+1187,Raka Lestari,"Jl. Durian Raya nomor 72, Pedalangan",82545080959,Wanita
+1188,Fitri Maharani,"Jl. Tirto Agung No. 37, Sumurboto",89664721307,Wanita
+1189,Hendra Firmansyah,"Jl. Cemara Raya No. 31, Srondol Kulon",86140489332,Wanita
+1190,Joko Maharani,"Jl. Durian Raya No. 15, Tinjomoyo",86373100817,Laki-Laki
+1191,Dian Santoso,"Jl. Mulawarman No. 21, Sumurboto",88718452354,Wanita
+1192,Putri Maulana,"Jl. Setiabudi No. 69, Jabungan",87017320865,Wanita
+1193,Hendra Hidayat,"Jl. Ngesrep Timur No. 34, Banyumanik",86563370140,Wanita
+1194,Dian Firmansyah,"Padangsari, Semarang",0855-80002722,Laki-Laki
+1195,Fajar Maharani,"Ngesrep, Semarang",89439136817,Wanita
+1196,Gita Wijaya,"Jl. Tirto Agung No. 89, Sumurboto",82862092973,Wanita
+1197,Agus Firmansyah,"Jl. Tembalang No. 55, Srondol Wetan",0822-73938992,Laki-Laki
+1198,Maya Oktaviani,"Jl. Durian Raya No. 91, Srondol Wetan",0836-61850761,Laki-Laki
+1199,Budi Maulana,"Jl. Tirto Agung No. 128, Padangsari",88236010712,Wanita
+1200,Maya Amelia,"Jl. Perintis Kemerdekaan No. 144, Jabungan",81764846735,Laki-Laki
+1201,Eko Permata,"Jl. Durian Raya No. 40, Pedalangan",88019442589,Wanita
+1202,Fajar Firmansyah,"Jl. Grafika Raya No. 97, Pedalangan",85350637311,Wanita
+1203,Intan Handayani,"Jl. Ngesrep Timur No. 71, Padangsari",0807-53841852,Wanita
+1204,Hendra Handayani,"Jl. Tirto Agung No. 15, Pudakpayung",0863-97561547,Laki-Laki
+1205,Lia Ramadhan,"Jl. Mulawarman No. 45, Jabungan",81516411955,Laki-Laki
+1206,Andi Rahmawati,"Jl. Mulawarman No. 148, Ngesrep",0839-57875207,Wanita
+1207,Andi Ramadhan,"Jabungan, Semarang",81971212413,Wanita
+1208,Nanda Putri,"Jl. Tirto Agung No. 119, Pudakpayung",87609873126,Laki-Laki
+1209,Hendra Lestari,"Jl. Sukun Raya No. 34, Tinjomoyo",86075988978,Laki-Laki
+1210,Hendra Anggraini,"Jl. Cemara Raya nomor 80, Srondol Wetan",89165430895,Wanita
+1211,dewi permata,"Banyumanik, Semarang",85057644974,Wanita
+1212,RINA SAPUTRA,"Jl. Sukun Raya No. 108, Pudakpayung",86448676497,Laki-Laki
+1213, Dian Kurniawan ,"Jl. Tirto Agung No. 52, Ngesrep",86045006355,Wanita
+1214,SITI ANGGRAINI,"Jl. Cemara Raya No. 99, Srondol Kulon",86927711952,Laki-Laki
+1215,Hendra Maharani,"Jl. Grafika Raya No. 95, Banyumanik",80255128276,Wanita
+1216,Putri Kurniawan,"Jl. Mulawarman No. 81, Banyumanik",88989596546,Laki-Laki
+1217,Hendra Kurniawan,"Jl. Setiabudi No. 75, Srondol Wetan",84149169993,Wanita
+1218,Fitri Ramadhan,"Jl. Cemara Raya No. 116, Srondol Kulon",0894-64088223,Laki-Laki
+1219,Taufik Putri,"Jl. Cemara Raya No. 123, Srondol Wetan",88894132109,Wanita
+1220, Budi Santoso ,"Jl. Ngesrep Timur No. 12, Tinjomoyo",0896 47293816,Wanita
+1221,BUDI SETIAWAN,"Jl. Grafika Raya No. 78, Srondol Kulon",86461293900,Laki-Laki
+1222,Dewi Permata,"Jl. Mulawarman No. 53, Tinjomoyo",0865-89635957,Laki-Laki
+1223,Raka Lestari,"Jl. Cemara Raya No. 56, Padangsari",0858-43456631,Wanita
+1224,Dian Amelia,"Jl. Tembalang No. 13, Srondol Wetan",82362203347,Wanita
+1225,Intan Putri,"Jl. Mulawarman No. 5, Srondol Kulon",87968680085,Wanita
+1226,Yoga Ramadhan,"Jl. Cemara Raya No. 13, Pedalangan",81774174304,Laki-Laki
+1227,Budi Permata,"Jl. Perintis Kemerdekaan No. 94, Gedawang",82894665275,Wanita
+1228,Gita Anggraini,"Jl. Perintis Kemerdekaan No. 40, Banyumanik",0802-02569133,Wanita
+1229,Andi Setiawan,"Jl. Setiabudi No. 105, Tinjomoyo",81167507627,Laki-Laki
+1230,Nanda Maharani,"Jl. Grafika Raya No. 45, Srondol Kulon",85301239847,Wanita
+1231,Andi Anggraini,"Jl. Sukun Raya No. 12, Pedalangan",84719017222,Wanita
+1232,mega firmansyah,"Jl. Ngesrep Timur No. 106, Srondol Kulon",88717754619,Wanita
+1233,dian ramadhan,"Jl. Tirto Agung No. 93, Jabungan",83872725812,Laki-Laki
+1234,Dimas Saputra,"Jl. Tembalang No. 99, Ngesrep",88448237337,Wanita
+1235, Raka Santoso ,"Padangsari, Semarang",0818-78035869,Wanita
+1236,Rizky Saputra,"Jl. Setiabudi No. 10, Jabungan",89251999452,Laki-Laki
+1237,Agus Wijaya,"Jl. Mulawarman No. 45, Pedalangan",87643387220,Laki-Laki
+1238, Eko Permata ,"Jl. Tirto Agung No. 46, Ngesrep",85496330833,Laki-Laki
+1239,JOKO HIDAYAT,"Jl. Setiabudi No. 129, Pudakpayung",88995047020,Laki-Laki
+1240,Nanda Maulana,"Jl. Tembalang No. 19, Banyumanik",85377492663,Laki-Laki
+1241,Putri Setiawan,"Jl. Sukun Raya No. 116, Tinjomoyo",85225920616,Wanita
+1242,Eko Puspita,"Jl. Grafika Raya No. 95, Banyumanik",82294115630,Laki-Laki
+1243,Lia Rahmawati,"Jl. Durian Raya No. 112, Srondol Wetan",82629420661,Laki-Laki
+1244,DIMAS MAULANA,"Jl. Perintis Kemerdekaan No. 87, Padangsari",83138004983,Wanita
+1245,Citra Lestari,"Pedalangan, Semarang",85481582686,Laki-Laki
+1246,NADIA KURNIAWAN,"Jl. Mulawarman No. 150, Padangsari",0854-88064420,Laki-Laki
+1247,Fajar Rahmawati,"Jl. Ngesrep Timur No. 114, Jabungan",87358566464,Wanita
+1248,Dimas Putri,"Jl. Sukun Raya No. 56, Srondol Kulon",0821-92622132,Laki-Laki
+1249,rina lestari,"Jl. Setiabudi No. 42, Banyumanik",88314789117,Laki-Laki
+1250,Eko Putri,"Jl. Cemara Raya No. 72, Banyumanik",88128318003,Laki-Laki
+1251,Putri Pratama,"Gedawang, Semarang",0853-28538631,Laki-Laki
+1252,Anisa Saputra,"Jl. Sukun Raya No. 70, Srondol Wetan",83805826929,Wanita
+1253,Budi Hidayat,"Jl. Perintis Kemerdekaan No. 111, Pedalangan",86332838963,Laki-Laki
+1254,Putri Lestari,"Jl. Tembalang No. 30, Jabungan",0862-67136841,Wanita
+1255,Gita Permata,"Jl. Perintis Kemerdekaan No. 41, Srondol Wetan",89218835279,Wanita
+1256,Taufik Oktaviani,"Jl. Grafika Raya No. 104, Tinjomoyo",0861 06592088,Laki-Laki
+1257,Hendra Lestari,"Jl. Sukun Raya No. 120, Banyumanik",86178159698,Wanita
+1258,Vina Kurniawan,"Jabungan, Semarang",82665686295,Wanita
+1259,Eko Maharani,"Jl. Durian Raya No. 79, Banyumanik",89925539460,Laki-Laki
+1260,Agus Kurniawan,"Jl. Cemara Raya No. 6, Tinjomoyo",87296694179,Laki-Laki
+1261,Siti Pratama,"Jl. Grafika Raya No. 142, Banyumanik",0847-48599464,Wanita
+1262,Raka Puspita,"Jl. Setiabudi No. 29, Ngesrep",0834 78536988,Laki-Laki
+1263,Joko Rahmawati,"Jl. Grafika Raya No. 68, Srondol Kulon",80928605210,Laki-Laki
+1264,eko hidayat,"Jl. Tirto Agung No. 103, Srondol Kulon",0890 08248458,Wanita
+1265,Andi Amelia,"Jl. Cemara Raya No. 143, Srondol Wetan",80574883997,Wanita
+1266,Vina Firmansyah,"Jl. Durian Raya No. 4, Pedalangan",85000305661,Laki-Laki
+1267,ANISA ANGGRAINI,"Jl. Tembalang nomor 100, Srondol Kulon",0884-93784679,Laki-Laki
+1268,Dian Pratama,"Jl. Mulawarman No. 136, Tinjomoyo",86001365103,Laki-Laki
+1269,Joko Ramadhan,"Jl. Cemara Raya No. 12, Ngesrep",84568652406,Wanita
+1270,Dewi Maharani,"Jl. Cemara Raya No. 112, Tinjomoyo",85622219053,Laki-Laki
+1271,Rizky Pratama,"Jl. Ngesrep Timur No. 79, Tinjomoyo",84845593965,Wanita
+1272,Aldi Setiawan,"Jl. Durian Raya No. 81, Gedawang",0812-45531290,Wanita
+1273,Nadia Permata,"Jl. Sukun Raya No. 24, Padangsari",87327726488,Wanita
+1274,Dimas Firmansyah,"Jl. Tembalang No. 83, Pudakpayung",0822 94252516,Laki-Laki
+1275,Siti Firmansyah,"Padangsari, Semarang",85080549147,Laki-Laki
+1276,Intan Oktaviani,"Jl. Tembalang No. 55, Sumurboto",82478417159,Laki-Laki
+1277,Gita Ramadhan,"Jl. Cemara Raya No. 53, Gedawang",83788033183,Wanita
+1278,Aldi Lestari,"Jl. Durian Raya No. 62, Jabungan",0892-60878828,Laki-Laki
+1279,Raka Santoso,"Srondol Wetan, Semarang",84862515217,Laki-Laki
+1280,Putri Maharani,"Jl. Durian Raya No. 84, Srondol Wetan",88018915673,Laki-Laki
+1281,Aldi Handayani,"Jl. Mulawarman No. 123, Tinjomoyo",0822-74938162,Laki-Laki
+1282,Mega Handayani,"Sumurboto, Semarang",89999001089,Laki-Laki
+1283,Siti Setiawan,"Jl. Grafika Raya No. 137, Srondol Wetan",85211896844,Laki-Laki
+1284,Nadia Ramadhan,"Jl. Perintis Kemerdekaan No. 133, Srondol Kulon",89795728575,Laki-Laki
+1285,Nanda Maulana,"Banyumanik, Semarang",82217978912,Wanita
+1286,Anisa Puspita,"Jl. Mulawarman No. 119, Gedawang",89844514367,Wanita
+1287,Taufik Handayani,"Jl. Mulawarman No. 22, Pedalangan",83038856811,Wanita
+1288,Dimas Oktaviani,"Jl. Mulawarman No. 71, Sumurboto",80099217790,Laki-Laki
+1289,Eko Amelia,"Jl. Tirto Agung No. 150, Srondol Wetan",81363849271,Laki-Laki
+1290,Andi Wijaya,"Jl. Cemara Raya nomor 62, Banyumanik",0856 92837461,Wanita
+1291,agus putri,"Jl. Cemara Raya No. 16, Pudakpayung",88181045024,Laki-Laki
+1292,gita handayani,"Jl. Tembalang No. 136, Tinjomoyo",86627135896,Wanita
+1293,Gita Firmansyah,"Jl. Cemara Raya No. 16, Gedawang",85856154731,Laki-Laki
+1294,Aldi Handayani,"Jl. Durian Raya No. 150, Tinjomoyo",0825-51164369,Wanita
+1295,Fitri Maulana,"Jl. Ngesrep Timur No. 125, Pedalangan",80289666053,Wanita
+1296,Taufik Lestari,"Jl. Setiabudi No. 66, Padangsari",86101975358,Laki-Laki
+1297,putri ramadhan,"Jl. Tembalang No. 32, Gedawang",88802730427,Wanita
+1298,Putri Permata,"Jl. Mulawarman No. 68, Jabungan",84718939530,Laki-Laki
+1299,Yoga Saputra,"Jl. Ngesrep Timur No. 103, Srondol Kulon",89092288498,Laki-Laki
+1300,Aldi Maharani,"Jl. Tembalang No. 29, Srondol Wetan",85872717430,Laki-Laki
+1301,Raka Amelia,"Jl. Mulawarman No. 28, Ngesrep",80343988187,Laki-Laki
+1302,Rizky Firmansyah,"Jl. Durian Raya No. 60, Srondol Wetan",84770413090,Wanita
+1303,Maya Anggraini,"Jl. Tirto Agung No. 6, Pedalangan",82625420412,Wanita
+1304,Dimas Saputra,"Jl. Tembalang No. 116, Tinjomoyo",80441007941,Wanita
+1305,Fajar Ramadhan,"Jabungan, Semarang",80979412248,Wanita
+1306,Yoga Amelia,"Jl. Sukun Raya No. 100, Srondol Kulon",86322517422,Wanita
+1307,Intan Anggraini,"Jl. Tirto Agung No. 26, Padangsari",89003468616,Wanita
+1308,Siti Pratama,"Jl. Perintis Kemerdekaan No. 103, Tinjomoyo",82020095366,Wanita
+1309,Citra Rahmawati,"Jl. Durian Raya No. 105, Pudakpayung",80057795001,Wanita
+1310,Eko Maharani,"Jl. Grafika Raya No. 7, Tinjomoyo",89713072211,Laki-Laki
+1311,Yoga Saputra,"Jl. Perintis Kemerdekaan No. 121, Padangsari",0867 22104546,Laki-Laki
+1312,Dewi Rahmawati,"Tinjomoyo, Semarang",0812-37482916,Wanita
+1313, Maya Permata ,"Jl. Tirto Agung No. 4, Pedalangan",82394120944,Laki-Laki
+1314,Raka Oktaviani,"Jl. Tirto Agung No. 6, Srondol Wetan",82655132761,Laki-Laki
+1315,Dimas Kurniawan,"Jl. Perintis Kemerdekaan No. 7, Jabungan",0845 59851602,Wanita
+1316,Yoga Wijaya,"Jl. Perintis Kemerdekaan No. 149, Padangsari",86864986478,Laki-Laki
+1317,Eko Anggraini,"Jl. Tirto Agung No. 16, Gedawang",0884 47408378,Wanita
+1318,Yoga Saputra,"Jl. Setiabudi nomor 146, Pedalangan",86400698369,Wanita
+1319,Fitri Anggraini,"Jl. Durian Raya No. 72, Pudakpayung",88647082139,Laki-Laki
+1320,Lia Ramadhan,"Jl. Sukun Raya No. 38, Gedawang",81237205503,Wanita
+1321,ANDI SAPUTRA,"Jl. Grafika Raya No. 141, Pudakpayung",83467391900,Wanita
+1322,Dewi Ramadhan,"Jl. Tirto Agung No. 1, Gedawang",81692327379,Laki-Laki
+1323,agus puspita,"Jl. Tirto Agung No. 3, Pudakpayung",0854-81867463,Wanita
+1324,Andi Puspita,"Jl. Perintis Kemerdekaan No. 71, Jabungan",83611371181,Wanita
+1325,Bayu Puspita,"Jl. Tembalang No. 67, Sumurboto",82942034015,Laki-Laki
+1326,Nanda Setiawan,"Jl. Tirto Agung No. 106, Gedawang",85699944946,Laki-Laki
+1327, Eko Saputra ,"Jl. Grafika Raya No. 141, Pedalangan",80281822387,Laki-Laki
+1328,Andi Permata,"Jl. Sukun Raya No. 9, Pudakpayung",88174527353,Laki-Laki
+1329,Fajar Setiawan,"Jl. Ngesrep Timur No. 5, Gedawang",0812 91828518,Laki-Laki
+1330,Citra Santoso,"Banyumanik, Semarang",84610079230,Laki-Laki
+1331,putri pratama,"Jl. Mulawarman No. 33, Pudakpayung",88271012329,Laki-Laki
+1332, Citra Firmansyah ,"Jl. Sukun Raya No. 8, Jabungan",88507665344,Wanita
+1333,Mega Kurniawan,"Jl. Sukun Raya No. 37, Tinjomoyo",83460191530,Laki-Laki
+1334,Agus Anggraini,"Jl. Setiabudi No. 126, Pedalangan",83586176822,Wanita
+1335,Agus Permata,"Tinjomoyo, Semarang",88666562241,Laki-Laki
+1336,Mega Putri,"Jl. Ngesrep Timur No. 131, Srondol Kulon",0847-71290350,Laki-Laki
+1337,Dian Wijaya,"Jl. Setiabudi No. 129, Banyumanik",84223543404,Laki-Laki
+1338,Mega Handayani,"Jl. Sukun Raya nomor 29, Pedalangan",0856-49525492,Laki-Laki
+1339,Bayu Ramadhan,"Jl. Mulawarman No. 32, Padangsari",0897-38818273,Laki-Laki
+1340,Hendra Kurniawan,"Jl. Tembalang No. 74, Pudakpayung",82188496806,Laki-Laki
+1341,Aldi Pratama,"Jl. Mulawarman No. 26, Gedawang",87849273618,Laki-Laki
+1342,Budi Kurniawan,"Jl. Perintis Kemerdekaan No. 109, Gedawang",87218600320,Wanita
+1343,Dewi Puspita,"Jl. Perintis Kemerdekaan nomor 13, Padangsari",84003471317,Wanita
+1344,Yoga Hidayat,"Jl. Perintis Kemerdekaan No. 107, Gedawang",81625908419,Laki-Laki
+1345,Aldi Hidayat,"Jl. Tembalang No. 94, Gedawang",0811-37535821,Laki-Laki
+1346,Dian Santoso,"Jl. Perintis Kemerdekaan No. 114, Pudakpayung",0807 27903716,Laki-Laki
+1347,Andi Amelia,"Jl. Perintis Kemerdekaan No. 29, Banyumanik",82239964771,Wanita
+1348,Siti Maharani,"Jl. Grafika Raya No. 115, Ngesrep",81024808557,Wanita
+1349,Andi Santoso,"Jl. Setiabudi No. 76, Srondol Wetan",82362216906,Laki-Laki
+1350,Vina Firmansyah,"Jl. Setiabudi No. 102, Jabungan",80675169139,Wanita
+1351,citra maharani,"Jl. Mulawarman No. 105, Srondol Kulon",86107033508,Laki-Laki
+1352,Mega Santoso,"Jl. Durian Raya No. 29, Banyumanik",0839-24848130,Laki-Laki
+1353,Dian Wijaya,"Jl. Tirto Agung No. 20, Gedawang",83021516758,Laki-Laki
+1354,Nadia Setiawan,"Jl. Cemara Raya No. 85, Srondol Wetan",88110501476,Wanita
+1355,Siti Maulana,"Jl. Tirto Agung No. 32, Sumurboto",83855128177,Wanita
+1356,Eko Setiawan,"Jl. Tembalang No. 145, Tinjomoyo",81554260972,Laki-Laki
+1357,Andi Permata,"Jl. Setiabudi No. 112, Sumurboto",0846-77205171,Laki-Laki
+1358,Gita Saputra,"Jl. Ngesrep Timur No. 32, Sumurboto",84783703175,Wanita
+1359,Taufik Pratama,"Srondol Kulon, Semarang",84857260292,Laki-Laki
+1360,Nanda Handayani,"Jl. Perintis Kemerdekaan No. 104, Pedalangan",0828-84076642,Laki-Laki
+1361,Anisa Handayani,"Tinjomoyo, Semarang",0823 63829174,Wanita
+1362,Mega Maulana,"Banyumanik, Semarang",86048869320,Laki-Laki
+1363,Nanda Firmansyah,"Jl. Durian Raya No. 67, Gedawang",80892739615,Laki-Laki
+1364,Putri Ramadhan,"Jl. Grafika Raya No. 81, Srondol Wetan",85670789775,Laki-Laki
+1365,fajar putri,"Jl. Cemara Raya No. 8, Srondol Wetan",0842-27362732,Wanita
+1366,Fajar Permata,"Jl. Mulawarman No. 28, Padangsari",85769171620,Laki-Laki
+1367,Fajar Puspita,"Jl. Tembalang No. 30, Srondol Kulon",88698305216,Wanita
+1368,Gita Rahmawati,"Jl. Sukun Raya No. 8, Pedalangan",0869-80142647,Wanita
+1369,PUTRI AMELIA,"Jl. Mulawarman No. 116, Tinjomoyo",80316370500,Wanita
+1370,Gita Santoso,"Jl. Ngesrep Timur No. 47, Srondol Kulon",86931729476,Wanita
+1371,Vina Setiawan,"Jl. Grafika Raya No. 102, Sumurboto",80259985193,Wanita
+1372,Eko Hidayat,"Jl. Sukun Raya No. 127, Pedalangan",81291635049,Wanita
+1373,Eko Putri,"Jl. Tirto Agung No. 116, Ngesrep",85272845397,Laki-Laki
+1374,Andi Hidayat,"Jl. Grafika Raya No. 130, Pudakpayung",0840-67560208,Wanita
+1375,Yoga Santoso,"Jl. Grafika Raya No. 43, Pedalangan",0815-43904489,Wanita
+1376,Fajar Santoso,"Jl. Durian Raya No. 64, Srondol Wetan",0802-35102555,Wanita
+1377,Dimas Setiawan,"Jabungan, Semarang",83698884393,Wanita
+1378,Gita Santoso,"Jl. Durian Raya No. 101, Pedalangan",0857-72948163,Laki-Laki
+1379, Nanda Ramadhan ,"Jl. Sukun Raya No. 149, Gedawang",85965999201,Wanita
+1380,Siti Handayani,"Jl. Mulawarman No. 124, Tinjomoyo",89542106294,Wanita
+1381,Yoga Anggraini,"Jl. Tembalang No. 26, Banyumanik",89648372916,Laki-Laki
+1382,Aldi Ramadhan,"Jl. Tembalang No. 39, Jabungan",86461209617,Wanita
+1383,Andi Pratama,"Jl. Cemara Raya No. 41, Jabungan",88452403211,Wanita
+1384,Aldi Maharani,"Jl. Grafika Raya No. 82, Padangsari",83219143087,Laki-Laki
+1385,Anisa Permata,"Jl. Ngesrep Timur No. 33, Sumurboto",0842 21883458,Wanita
+1386,Agus Pratama,"Tinjomoyo, Semarang",86769333299,Laki-Laki
+1387,Maya Wijaya,"Jl. Cemara Raya No. 15, Pedalangan",87846408585,Wanita
+1388,Fitri Amelia,"Jl. Tembalang No. 112, Tinjomoyo",86208467292,Laki-Laki
+1389,Dian Anggraini,"Jl. Tembalang No. 96, Padangsari",86282225018,Laki-Laki
+1390,Agus Handayani,"Jl. Setiabudi No. 115, Pedalangan",86394201223,Wanita
+1391,Joko Rahmawati,"Jl. Sukun Raya No. 3, Gedawang",86627026604,Wanita
+1392,Yoga Firmansyah,"Jl. Durian Raya No. 48, Padangsari",84003910193,Laki-Laki
+1393,Nanda Anggraini,"Jl. Cemara Raya No. 46, Pedalangan",0847-11936006,Wanita
+1394,Rizky Oktaviani,"Jl. Grafika Raya No. 83, Ngesrep",86160762643,Laki-Laki
+1395,Andi Pratama,"Jl. Tembalang No. 59, Tinjomoyo",83461762313,Laki-Laki
+1396,Dewi Pratama,"Jl. Cemara Raya No. 67, Srondol Kulon",0816 42316544,Wanita
+1397,Rizky Santoso,"Jl. Ngesrep Timur No. 100, Pudakpayung",0876-06349429,Laki-Laki
+1398,mega putri,"Jl. Ngesrep Timur nomor 84, Sumurboto",88870179993,Laki-Laki
+1399,rina santoso,"Jl. Sukun Raya No. 74, Pudakpayung",87444172345,Laki-Laki
+1400,Raka Anggraini,"Jl. Tirto Agung No. 147, Srondol Kulon",89025485362,Wanita
+1401,Intan Hidayat,"Jl. Durian Raya No. 133, Ngesrep",84100953855,Laki-Laki
+1402,Fajar Lestari,"Jl. Setiabudi No. 61, Sumurboto",89900937814,Laki-Laki
+1403,Budi Kurniawan,"Jl. Tirto Agung No. 25, Srondol Kulon",0878 84437066,Laki-Laki
+1404,Fitri Firmansyah,"Jl. Setiabudi No. 107, Tinjomoyo",86368154185,Wanita
+1405,Budi Permata,"Jl. Ngesrep Timur nomor 43, Banyumanik",80845078604,Laki-Laki
+1406,PUTRI PUTRI,"Jl. Tembalang No. 10, Srondol Wetan",83746983306,Laki-Laki
+1407,BAYU ANGGRAINI,"Jl. Tirto Agung No. 121, Padangsari",0822-26679419,Laki-Laki
+1408,Taufik Maulana,"Jl. Tembalang No. 56, Pudakpayung",85906739634,Wanita
+1409,Rina Maulana,"Jl. Cemara Raya No. 129, Tinjomoyo",0805-50492217,Laki-Laki
+1410,Anisa Amelia,"Jl. Mulawarman No. 140, Ngesrep",87066320162,Wanita
+1411,Siti Anggraini,"Jl. Cemara Raya No. 46, Pudakpayung",81982718265,Wanita
+1412,Nanda Setiawan,"Jl. Mulawarman No. 118, Gedawang",86494269420,Wanita
+1413,Mega Lestari,"Jl. Durian Raya No. 84, Srondol Kulon",89014599670,Wanita
+1414,Citra Puspita,"Srondol Wetan, Semarang",85498243884,Wanita
+1415,Raka Saputra,"Jl. Sukun Raya No. 20, Tinjomoyo",88167806643,Wanita
+1416,Lia Maulana,"Jl. Grafika Raya No. 27, Ngesrep",0849 28150370,Laki-Laki
+1417,Budi Puspita,"Jl. Tirto Agung No. 77, Gedawang",80308808172,Wanita
+1418,Taufik Santoso,"Jl. Tirto Agung No. 141, Pedalangan",84485007288,Laki-Laki
+1419,Yoga Santoso,"Padangsari, Semarang",86806919612,Laki-Laki
+1420,NADIA PERMATA,"Jl. Perintis Kemerdekaan No. 9, Pudakpayung",80391702634,Laki-Laki
+1421,Gita Maharani,"Jl. Tirto Agung No. 48, Jabungan",85870120424,Laki-Laki
+1422,Gita Putri,"Jl. Grafika Raya No. 150, Padangsari",83753028497,Wanita
+1423,Hendra Puspita,"Jl. Ngesrep Timur No. 1, Pedalangan",84365240553,Laki-Laki
+1424,Intan Maulana,"Jl. Mulawarman No. 137, Tinjomoyo",84036488215,Laki-Laki
+1425,Siti Setiawan,"Jl. Tembalang No. 71, Ngesrep",82323606679,Laki-Laki
+1426,joko rahmawati,"Jl. Sukun Raya No. 96, Banyumanik",89722042986,Wanita
+1427,Putri Rahmawati,"Jl. Sukun Raya No. 3, Ngesrep",86179962356,Wanita
+1428,Yoga Puspita,"Jl. Perintis Kemerdekaan No. 64, Srondol Wetan",88768877792,Laki-Laki
+1429,Andi Kurniawan,"Jl. Durian Raya No. 66, Pudakpayung",80849315398,Wanita
+1430, Nanda Puspita ,"Ngesrep, Semarang",80014407629,Wanita
+1431,Raka Kurniawan,"Jl. Durian Raya No. 9, Srondol Kulon",89134103897,Wanita
+1432,Mega Amelia,"Jl. Sukun Raya No. 9, Banyumanik",88656422405,Wanita
+1433,Budi Maulana,"Srondol Wetan, Semarang",89766919489,Wanita
+1434,Dian Rahmawati,"Jl. Perintis Kemerdekaan No. 9, Jabungan",86820175307,Laki-Laki
+1435,Putri Wijaya,"Jl. Tirto Agung No. 147, Sumurboto",82404347412,Wanita
+1436,Citra Anggraini,"Jl. Cemara Raya nomor 81, Ngesrep",0800-77732175,Wanita
+1437,Putri Lestari,"Jl. Cemara Raya No. 46, Gedawang",85999193873,Laki-Laki
+1438,Budi Anggraini,"Jl. Sukun Raya No. 76, Srondol Kulon",87489047607,Laki-Laki
+1439,Aldi Permata,"Padangsari, Semarang",0876 51917085,Laki-Laki
+1440,Rina Setiawan,"Jl. Sukun Raya No. 138, Banyumanik",81456340918,Wanita
+1441,Maya Firmansyah,"Jl. Mulawarman No. 25, Sumurboto",84496539160,Laki-Laki
+1442,FITRI OKTAVIANI,"Jl. Grafika Raya No. 73, Gedawang",83045418403,Wanita
+1443,Fajar Lestari,"Jl. Grafika Raya No. 54, Banyumanik",86203858864,Wanita
+1444,Bayu Hidayat,"Jl. Perintis Kemerdekaan No. 4, Pedalangan",85295164693,Wanita
+1445,Lia Putri,"Jl. Durian Raya No. 15, Srondol Wetan",87440880670,Laki-Laki
+1446,Budi Puspita,"Jl. Grafika Raya No. 31, Banyumanik",89184311326,Wanita
+1447,Dewi Maharani,"Jl. Setiabudi No. 142, Sumurboto",0805-26321196,Laki-Laki
+1448,Rizky Santoso,"Jl. Grafika Raya No. 81, Srondol Wetan",87077454470,Wanita
+1449, Dian Anggraini ,"Jl. Ngesrep Timur No. 17, Srondol Kulon",81995394676,Wanita
+1450,Aldi Putri,"Jl. Durian Raya No. 84, Banyumanik",0813 39274618,Laki-Laki
+1451,Siti Amelia,"Jl. Grafika Raya No. 56, Ngesrep",86050630663,Wanita
+1452,Maya Saputra,"Jl. Perintis Kemerdekaan No. 23, Jabungan",0864-09891039,Wanita
+1453,Fajar Saputra,"Jl. Durian Raya No. 8, Pedalangan",82094523759,Laki-Laki
+1454,Hendra Wijaya,"Gedawang, Semarang",89860275745,Laki-Laki
+1455,Anisa Rahmawati,"Jl. Grafika Raya No. 82, Srondol Kulon",0889-44538118,Wanita
+1456,Rina Amelia,"Jl. Tirto Agung No. 90, Jabungan",88344566229,Laki-Laki
+1457,Eko Wijaya,"Jl. Cemara Raya No. 127, Gedawang",86603616248,Wanita
+1458,Rizky Pratama,"Jl. Ngesrep Timur No. 40, Ngesrep",80235158501,Wanita
+1459,bayu pratama,"Jl. Ngesrep Timur No. 59, Jabungan",81671560587,Wanita
+1460,Maya Permata,"Jl. Setiabudi No. 78, Padangsari",83954794064,Laki-Laki
+1461,Gita Wijaya,"Banyumanik, Semarang",85719189866,Laki-Laki
+1462,Aldi Handayani,"Jl. Durian Raya No. 110, Sumurboto",81833597487,Wanita
+1463,maya hidayat,"Jl. Sukun Raya No. 63, Tinjomoyo",81843019220,Laki-Laki
+1464,Putri Oktaviani,"Jl. Durian Raya No. 49, Pedalangan",89732396440,Wanita
+1465,Lia Setiawan,"Jl. Sukun Raya No. 102, Tinjomoyo",89924277392,Laki-Laki
+1466,anisa permata,"Jl. Sukun Raya No. 62, Jabungan",80914016933,Wanita
+1467,Taufik Ramadhan,"Jl. Sukun Raya No. 55, Srondol Kulon",0819 98290755,Laki-Laki
+1468,Fitri Ramadhan,"Ngesrep, Semarang",0858-74928163,Wanita
+1469,Andi Handayani,"Jl. Durian Raya No. 55, Jabungan",0826-22777733,Laki-Laki
+1470,Mega Maulana,"Jl. Grafika Raya No. 102, Ngesrep",0870-70385036,Laki-Laki
+1471,Dimas Maharani,"Jl. Cemara Raya No. 129, Srondol Kulon",84107402740,Laki-Laki
+1472,Siti Firmansyah,"Jl. Sukun Raya No. 110, Tinjomoyo",82590620036,Laki-Laki
+1473,Anisa Handayani,"Jl. Tirto Agung No. 19, Srondol Kulon",87459793183,Laki-Laki
+1474,Agus Rahmawati,"Jl. Setiabudi No. 20, Srondol Kulon",88609955049,Wanita
+1475,Eko Putri,"Jl. Tirto Agung No. 76, Srondol Wetan",82394612128,Wanita
+1476,Bayu Wijaya,"Jl. Cemara Raya No. 74, Pudakpayung",83400127622,Laki-Laki
+1477,Siti Kurniawan,"Jl. Sukun Raya No. 88, Ngesrep",87871888223,Laki-Laki
+1478,Budi Maharani,"Jl. Perintis Kemerdekaan No. 75, Padangsari",88061349564,Laki-Laki
+1479,Nadia Pratama,"Jl. Tembalang No. 132, Ngesrep",87949638309,Wanita
+1480,Gita Handayani,"Jl. Grafika Raya No. 140, Gedawang",82616620165,Laki-Laki
+1481,Agus Hidayat,"Jl. Perintis Kemerdekaan No. 105, Srondol Kulon",87865557512,Laki-Laki
+1482,PUTRI RAMADHAN,"Jl. Grafika Raya No. 14, Ngesrep",87586824051,Laki-Laki
+1483,Maya Ramadhan,"Jl. Mulawarman No. 40, Pedalangan",84418997402,Wanita
+1484,Taufik Putri,"Jl. Tirto Agung No. 5, Pudakpayung",0835-70170363,Laki-Laki
+1485,Raka Ramadhan,"Jl. Durian Raya No. 132, Jabungan",80205089830,Laki-Laki
+1486,Agus Lestari,"Jl. Setiabudi No. 149, Gedawang",86197979724,Wanita
+1487, Vina Ramadhan ,"Jl. Durian Raya No. 93, Ngesrep",84804507356,Laki-Laki
+1488,JOKO MAULANA,"Jl. Cemara Raya No. 83, Tinjomoyo",0839-40598026,Wanita
+1489,Rina Puspita,"Jabungan, Semarang",0831-58925849,Laki-Laki
+1490,Gita Kurniawan,"Jl. Grafika Raya No. 59, Padangsari",0877 74867595,Laki-Laki
+1491,Citra Maulana,"Jl. Setiabudi No. 134, Pedalangan",0808 82958684,Laki-Laki
+1492,Fajar Setiawan,"Ngesrep, Semarang",85869427674,Wanita
+1493,Dewi Hidayat,"Jl. Grafika Raya No. 99, Ngesrep",89315181788,Laki-Laki
+1494,Nanda Permata,"Jl. Tembalang No. 88, Banyumanik",86989062327,Wanita
+1495,Hendra Oktaviani,"Banyumanik, Semarang",82237900654,Laki-Laki
+1496,Budi Amelia,"Jl. Ngesrep Timur No. 115, Banyumanik",0841-76755398,Wanita
+1497,Fitri Hidayat,"Pudakpayung, Semarang",85915790894,Laki-Laki
+1498,Fajar Handayani,"Jl. Durian Raya No. 130, Srondol Kulon",0887 63802076,Wanita
+1499,Hendra Rahmawati,"Jl. Mulawarman No. 47, Padangsari",89051881298,Laki-Laki
+1500,Aldi Wijaya,"Jl. Sukun Raya No. 7, Jabungan",80669010792,Laki-Laki

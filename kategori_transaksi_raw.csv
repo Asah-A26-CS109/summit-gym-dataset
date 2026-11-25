@@ -1,0 +1,9 @@
+﻿id_kategori;nama_kategori;jenis_transaksi
+1;membership;Pemasukan
+2;Kunjungan Harian;Pemasukan
+3;Penjualan Produk;Pemasukan
+4;biaya operasional;Pengeluaran
+5;pembelian perlengkapan;Pengeluaran
+6;Perawatan Alat;Pengeluaran
+7;LISTRIK DAN AIR;Pengeluaran
+8;Gaji Karyawan;Pengeluaran

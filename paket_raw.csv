@@ -1,0 +1,5 @@
+id_paket;nama_paket;durasi;satuan_durasi;harga
+1;Gym;1;Hari;15000
+2;Gym;1;Bulan;150000
+3;Gym+Treadmill;1;Hari;25000
+4;Gym+Treadmill;1;Bulan;200000

@@ -1,0 +1,32 @@
+﻿id_produk,nama_produk,kategori_produk,harga_produk,stok
+1,AIR MINERAL 600ML,Minuman,5000,50
+2,AIR MINERAL 1500ML,Minuman,8000,30
+3,Pocari Sweat,Minuman,9000,25
+4,mizone,Minuman,6000,20
+5,you c1000,Minuman,8500,15
+6,teh botol sosro,Minuman,5000,35
+7,ULTRA MILK COKELAT,Minuman,7000,20
+8,Ultra Milk Strawberry,Minuman,7000,15
+9,ISOPLUS,Minuman,5000,20
+10,Sprite,Minuman,7000,15
+11,cOCA cOLA,Minuman,7000,15
+12,FANTA,Minuman,7000,15
+13,ROTI GANDUM,Makanan,12000,20
+14,ROTI COKELAT,Makanan,8000,15
+15,roti keju,Makanan,9000,15
+16,pisang,Makanan,5000,30
+17,Protein Bar,Makanan,18000,12
+18,Granola Bar,Makanan,15000,12
+19,OATMEAL,Makanan,12000,10
+20,Sandwich Telur,Makanan,13000,10
+21,sandwich tuna,Makanan,18000,8
+22,Telur Rebus,Makanan,5000,20
+23,kACANG aLMOND,Makanan,20000,10
+24,yogurt,Makanan,10000,15
+25,sUSU pROTEIN,Minuman,18000,10
+26,Air Kelapa,Minuman,10000,10
+27,Lemon Tea,Minuman,8000,15
+28,TEH HIJAU,Minuman,7000,15
+29,cookies oat,Makanan,10000,10
+30,bROWNIES,Makanan,12000,10
+31,Roti Pisang,Makanan,9000,12
